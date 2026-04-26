@@ -1,5 +1,6 @@
 name: Analyze page export
 
+# Touch this file to trigger a manual analysis run when needed.
 on:
   workflow_dispatch:
   push:
