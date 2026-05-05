@@ -16,7 +16,7 @@ jobs:
     env:
       INPUT_PATH: codex-analysis/latest-page-export.txt
       OUTPUT_PATH: codex-analysis/latest-page-export-analysis.md
-      GEMINI_MODEL: gemini-2.5-flash
+      GEMINI_MODEL: gemini-2.0-flash
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,9 +25,10 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          node --input-type=module <<'NODE'
-          import fs from "node:fs";
-          import path from "node:path";
+          node --input-type=commonjs <<'NODE'
+          (async () => {
+          const fs = require("fs");
+          const path = require("path");
 
           const apiKey = process.env.GEMINI_API_KEY;
           if (!apiKey) throw new Error("Missing GEMINI_API_KEY repository secret.");
@@ -36,7 +37,6 @@ jobs:
           const outputPath = process.env.OUTPUT_PATH;
           const model = process.env.GEMINI_MODEL;
           const sourceText = fs.readFileSync(inputPath, "utf8").slice(0, 180000);
-
           const prompt = [
             "Please analyze the following Google Maps or web review export.",
             "Write the report in Traditional Chinese.",
@@ -83,6 +83,7 @@ jobs:
             `${summary}\n\n---\nGenerated from \`${inputPath}\` at ${new Date().toISOString()}.\n`,
             "utf8"
           );
+          })();
           NODE
 
       - name: Commit summary
@@ -92,3 +93,42 @@ jobs:
           git add "$OUTPUT_PATH"
           git diff --cached --quiet || git commit -m "Update latest page export analysis"
           git push
+
+      - name: Send analysis to LINE
+        env:
+          MAP_ANALYSIS_WEBHOOK_URL: ${{ secrets.MAP_ANALYSIS_WEBHOOK_URL }}
+          MAP_ANALYSIS_PUSH_TOKEN: ${{ secrets.MAP_ANALYSIS_PUSH_TOKEN }}
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
+
+          const webhookUrl = process.env.MAP_ANALYSIS_WEBHOOK_URL;
+          const pushToken = process.env.MAP_ANALYSIS_PUSH_TOKEN;
+          if (!webhookUrl || !pushToken) {
+            console.log("LINE push skipped: MAP_ANALYSIS_WEBHOOK_URL or MAP_ANALYSIS_PUSH_TOKEN is missing.");
+            process.exit(0);
+          }
+
+          const text = fs.readFileSync(process.env.OUTPUT_PATH, "utf8");
+          const repo = process.env.GITHUB_REPOSITORY;
+          const branch = process.env.GITHUB_REF_NAME;
+          const outputPath = process.env.OUTPUT_PATH;
+          const url = `https://github.com/${repo}/blob/${branch}/${outputPath}`;
+
+          const response = await fetch(webhookUrl, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Authorization": `Bearer ${pushToken}`,
+            },
+            body: JSON.stringify({
+              title: "Google Maps 評論分析",
+              text,
+              url,
+            }),
+          });
+
+          if (!response.ok) {
+            throw new Error(`LINE push failed: ${response.status} ${await response.text()}`);
+          }
+          NODE
