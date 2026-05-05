@@ -26,6 +26,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           node --input-type=commonjs <<'NODE'
+          (async () => {
           const fs = require("fs");
           const path = require("path");
 
@@ -82,6 +83,7 @@ jobs:
             `${summary}\n\n---\nGenerated from \`${inputPath}\` at ${new Date().toISOString()}.\n`,
             "utf8"
           );
+          })();
           NODE
 
       - name: Commit summary
