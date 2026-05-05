@@ -178,4 +178,6 @@ jobs:
           });
 
           if (!response.ok) {
-            throw new Error(`LINE push 
+            throw new Error(`LINE push failed: ${response.status} ${await response.text()}`);
+          }
+          NODE
