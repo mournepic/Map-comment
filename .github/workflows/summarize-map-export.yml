@@ -25,10 +25,9 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          node --input-type=commonjs <<'NODE'
-          (async () => {
-          const fs = require("fs");
-          const path = require("path");
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
+          import path from "node:path";
 
           const apiKey = process.env.GEMINI_API_KEY;
           if (!apiKey) throw new Error("Missing GEMINI_API_KEY repository secret.");
@@ -37,6 +36,7 @@ jobs:
           const outputPath = process.env.OUTPUT_PATH;
           const model = process.env.GEMINI_MODEL;
           const sourceText = fs.readFileSync(inputPath, "utf8").slice(0, 180000);
+
           const prompt = [
             "Please analyze the following Google Maps or web review export.",
             "Write the report in Traditional Chinese.",
@@ -83,7 +83,6 @@ jobs:
             `${summary}\n\n---\nGenerated from \`${inputPath}\` at ${new Date().toISOString()}.\n`,
             "utf8"
           );
-          })();
           NODE
 
       - name: Commit summary
