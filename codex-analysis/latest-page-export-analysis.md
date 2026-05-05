@@ -1,6 +1,6 @@
 # Latest Page Export Analysis
 
-Generated at: 2026-04-26T05:14:51.125Z
+Generated at: 2026-05-05T02:16:59.121Z
 
 Model: gpt-4.1-mini
 
@@ -12,44 +12,31 @@ Source: `codex-analysis/latest-page-export.txt`
 
 OpenAI 深度分析沒有完成，因此這份報告先使用腳本本地統計產生。
 
-原因：You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+原因：Missing OPENAI_API_KEY environment variable.
 
 ## 本地統計摘要
 
 - Google Maps 頁面顯示評分：4.4
-- Google Maps 頁面顯示評論數：2,816
-- 匯出文字長度：15574 字
-- 解析到的星等評論數：40
-- 解析到的星等平均：4.60
-- 在地嚮導出現次數：34
-- 業主回應出現次數：31
-- Google 翻譯標記出現次數：47
+- Google Maps 頁面顯示評論數：528
+- 匯出文字長度：2067 字
+- 解析到的星等評論數：0
+- 解析到的星等平均：unknown
+- 在地嚮導出現次數：4
+- 業主回應出現次數：0
+- Google 翻譯標記出現次數：0
 
 ## 細項評分
 
-- 房間：4.59，樣本 22
-- 服務：4.77，樣本 22
-- 地點：4.91，樣本 22
-- 餐點：unknown，樣本 0
-- 氣氛：unknown，樣本 0
+- 房間：unknown，樣本 0
+- 服務：4.67，樣本 3
+- 地點：unknown，樣本 0
+- 餐點：4.67，樣本 3
+- 氣氛：4.67，樣本 3
 
 ## 高頻關鍵字
 
-- 服務: 62
-- 房間: 47
-- 早餐: 27
-- 位置: 20
-- 地鐵: 14
-- BTS: 14
-- MRT: 12
-- 員工: 12
-- 購物中心: 9
-- 乾淨: 9
-- 浴室: 9
-- 升級: 7
-- 交通: 6
-- 泳池: 6
-- 便利: 6
+- 服務: 6
+- 推薦: 3
 
 ## 初步判讀
 
