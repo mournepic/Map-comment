@@ -1,88 +1,86 @@
 # 中文總結
 
 ## 名稱
-星辰牛排 (Star Steak)。
+台北六福萬怡酒店 The Lounge 大廳酒吧。
 
 ## 推薦/優點
-*   招牌「低溫舒肥牛排」口感極其軟嫩且無血水，深受長輩與不喜嚼勁者的喜愛。
-*   德國豬腳外皮酥脆、肉質扎實，且服務人員會主動提供去骨服務。
-*   餐前麵包（如佛卡夏或起司麵包）鬆軟可口且可免費續點。
-*   甜點如冰淇淋泡芙、巧克力布朗尼以及濃郁的蘑菇濃湯獲得多位評論者高度評價。
+*   「JC Cat 繽紛雲朵鳥籠下午茶」造型精緻且富有創意，是熱門的打卡亮點。
+*   甜點表現優於鹹食，其中抹茶系列甜點與外皮酥脆的可麗露備受好評。
+*   環境優雅且採光良好，窗邊座位可欣賞飛機起降，適合放談業務或閨蜜聚會。
+*   調酒與特色雲朵咖啡具視覺效果，部分調酒暢飲活動被認為物有所值。
 
 ## 不推薦/缺點
-*   龍蝦份量被多次反映偏小，且肉質偶爾有偏乾或過鹹的情況。
-*   附餐生菜沙拉被認為過於普通、單調，精緻度有待提升。
-*   部分食客反映主餐熟度掌握不穩（如三分熟過熟）或牛排上桌時盤溫不足導致冷卻過快。
+*   牛排品質不穩，評論多次提到肉質過老、筋多難咬或熟度掌控不佳。
+*   部分下午茶鹹點（如魚露凍、生火腿）評價兩極，甚至有腥味過重的負評。
+*   暢飲方案或套餐的上菜速度常被詬病過慢，感覺有故意拖延之嫌。
+*   曾有顧客反映食品衛生問題，如麵包發霉或有果蠅。
 
 ## 地點停車
-*   交通極其便利，位於捷運國父紀念館站 1 號出口旁。
-*   店家門口及周邊有路邊停車格，但假日熱門時段停車位較難尋找。
-*   附近有電視台收費停車場，雖然收費較高，但可作為備案。
+*   位於南港車站 B 棟，四鐵共構的地理位置極其方便。
+*   停車場系統較複雜，像迷宮且分為多個區域，需停在指定場域才能折抵消費。
 
 ## 價位
-*   人均消費約在 NT$1,000 至 NT$2,000 元以上。
-*   提供當月壽星 88 折優惠及加贈小蛋糕，CP 值高。
-*   許多評論推薦搭配 GOMAJI 或 Funnow 等電子餐券，消費更划算。
+*   下午茶雙人價位約在 1000 元至 1400 元之間，另收服務費。
+*   單點餐點（如牛肉麵、義大利麵）定價偏高，約在 400 元至 700 元不等。
+*   南港、汐止、基隆居民常有 85 折優惠，使用餐券購買則更具 CP 值。
 
 ## 服務
-*   服務態度親切友善，添水巡桌勤快，營造出被細心照顧的用餐感受。
-*   部分評論提到尖峰時段介紹菜單語速過快，或收盤過於急促產生趕客壓力。
-*   特殊節日（如情人節）規則較硬，可能暫停集點或僅能點選特定套餐。
+*   服務評價兩極，部分服務員被讚許積極親切且專業。
+*   負評集中於不主動提供飲水（需另購昂貴礦泉水）、回沖茶水需等待多時及結帳溝通消極。
 
 ## 其他
-*   裝潢風格走復古浪漫路線，天花板有星空與燈飾設計，氛圍溫馨。
-*   廁所清潔度高，配有免治馬桶、漱口水、牙線等貼心備品。
-*   加入 Line 社群或打卡常有贈送「松露蒸蛋」或干貝等活動。
+*   招牌鳥籠下午茶通常需要提前至少一天預訂，臨時到訪可能無法享用。
+*   環境雖然舒適，但有評論提到冷氣強度稍嫌不足。
 
 ## 和其他餐廳比較
-*   評論提到主餐牛排品質比「夏慕尼」更出色。
-*   亦有評論認為在相似價位下，「紅屋牛排」的附餐精緻度與整體表現勝過本店。
+*   牛排品質被評為不如一般中價位牛排館。
+*   有評論建議若追求牛排吃到飽，不如直接去隔壁的「敘日全日餐廳」。
 
 ## 簡短總結
-這是一家充滿復古情懷的老牌西餐廳，適合家庭聚餐、慶生或老派約會。特別推薦給追求極致軟嫩口感的舒肥牛排愛好者，但對附餐精緻度要求極高者則可能覺得較為中規中矩。
+適合注重拍照視覺效果、喜愛甜點與安靜環境小酌的顧客。不建議專程來享用牛排正餐，或對服務時效性有高度要求的消費者。
+
+---
 
 # English Summary
 
 ## Name
-Star Steak (星辰牛排).
+The Lounge, Courtyard by Marriott Taipei.
 
 ## Recommendations / Strengths
-*   The signature "Sous-vide Steak" is exceptionally tender and juicy, making it a favorite for seniors or those who prefer soft textures.
-*   The German Pork Knuckle is highly praised for its crispy skin and is helpfully deboned by the staff.
-*   Complimentary refills are offered for their soft, warm dinner rolls and focaccia bread.
-*   Mushroom soup, ice cream puffs, and chocolate brownies are frequently highlighted as delicious side items.
+*   The "JC Cat Birdcage Afternoon Tea" is highly creative, visually stunning, and perfect for social media photography.
+*   Desserts outperform savory items, with the matcha-themed treats and crispy canelés receiving consistent praise.
+*   The atmosphere is elegant and quiet with great natural lighting; window seats offer airplane-spotting views.
+*   Cocktails and signature "cloud coffee" are visually appealing, and Happy Hour deals are considered good value.
 
 ## Not Recommended / Weaknesses
-*   Lobster portions are often described as small, and the meat can occasionally be too dry or salty.
-*   The side salads are criticized for being overly simple or "boring" in presentation and flavor.
-*   Occasional issues with inconsistent steak doneness and plates not being warm enough, causing the meat to cool down quickly.
+*   Steak quality is inconsistent, with complaints regarding toughness, excessive tendons, and poor temperature control.
+*   Savory items in the tea sets (such as fish sauce jelly) are often criticized for having a strong, unpleasant smell.
+*   Service for set meals or all-you-can-drink deals is reported to be very slow, leading to a poor dining rhythm.
+*   Occasional hygiene concerns have been raised, including reports of moldy bread or presence of flies.
 
 ## Location and Parking
-*   Extremely convenient location right next to Exit 1 of the Sun Yat-sen Memorial Hall MRT Station.
-*   Limited street parking is available in front and nearby, but spots are difficult to find during weekends.
-*   The nearby CTS parking lot is a viable alternative, though the fees are higher.
+*   The lounge is conveniently located in Building B of Nangang Station, an interchange for four major rail systems.
+*   The parking lot is described as a maze with different sections; validation only applies if parked in the correct area.
 
 ## Price
-*   Average spending ranges from NT$1,000 to over NT$2,000 per person.
-*   Birthday specials (such as 12% off and free cake) provide excellent value for money.
-*   Many guests recommend purchasing vouchers from platforms like GOMAJI or Funnow for better pricing.
+*   Double afternoon tea sets are priced between NT$1,000 and NT$1,400 plus a service fee.
+*   Individual entrees like beef noodles or pasta are on the pricier side, ranging from NT$400 to NT$700.
+*   Local residents (Nangang, Xizhi, Keelung) can enjoy an 85% discount, and using vouchers provides better value.
 
 ## Service
-*   Staff are generally described as warm, professional, and attentive, particularly in refilling water.
-*   Some reviews noted that during peak hours, menu explanations were too fast and plates were cleared too quickly, creating a sense of pressure.
-*   Management can be strict on holidays, sometimes suspending loyalty point programs or restricting menu choices.
+*   Reviews of service are polarized; while some staff are praised for professionalism, others are criticized for being robotic.
+*   Common complaints include a lack of complimentary water (expensive bottled water required) and slow response to tea refills.
 
 ## Other
-*   The interior features a cozy, retro vibe with a romantic "starry sky" ceiling design.
-*   Restrooms are well-maintained and equipped with washlets, mouthwash, and dental floss.
-*   Joining their LINE group or checking in on social media often earns a free "Truffle Steamed Egg" appetizer.
+*   The signature birdcage afternoon tea set requires a reservation at least one day in advance.
+*   While the space is comfortable, some guests found the air conditioning to be slightly weak.
 
 ## Comparison with Other Restaurants
-*   One reviewer noted that the steak quality here is superior to that of Chamonix.
-*   Another mentioned that at a similar price point, Hung Ya Steakhouse (紅屋牛排) offers better overall refinement and side dishes.
+*   The quality of the roasted beef is considered inferior to dedicated mid-priced steakhouses.
+*   Reviewers suggested that for a better steak buffet experience, the neighboring "Sunrise" restaurant might be a better choice.
 
 ## Brief Summary
-A long-standing steakhouse with a charming retro atmosphere, ideal for family celebrations and traditional dates. It is highly recommended for those who love tender sous-vide steak, though the side dishes may feel a bit basic for foodies seeking high culinary refinement.
+This venue is ideal for photography enthusiasts, dessert lovers, and those seeking a quiet spot for casual business or social gatherings. It is not recommended for those prioritizing steak quality or expecting fast, attentive meal service.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-05-06T02:52:48.011Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-05-06T03:14:01.408Z.
