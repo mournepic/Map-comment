@@ -1,86 +1,90 @@
 # 中文總結
 
 ## 名稱
-台北喜來登大飯店 十二廚 (Kitchen 12)。
+新竹豐邑喜來登大飯店－盛宴自助餐廳 (Feast)。
 
 ## 推薦/優點
-*   烤羊排表現傑出，肉質鮮嫩多汁且無腥味。
-*   印度料理區令人驚艷，咖哩、烤餅與檸檬飯口味地道。
-*   現點現做的炙燒系列（如炙燒干貝捲、和牛捲）油脂香氣充足。
-*   甜點種類繁多，特別推薦白巧克力塔與草莓優格冰淇淋。
+*   甜點區被公認為最強項，可麗露、巴斯克蛋糕、千層蛋塔與各式小點評價極高。
+*   假日限定食材如生食級干貝、現煮龍蝦湯與爐烤和牛受到許多客人的稱讚。
+*   飲品選擇極為豐富，包含現搾果汁、特製冰沙以及基隆泡泡冰等特色冰品。
+*   空間寬敞舒適，桌距大且有真花裝飾，用餐環境質感佳。
 
 ## 不推薦/缺點
-*   海鮮類評價兩極，多則評論提到蟹腳肉質乾癟、縮水或不甜。
-*   生魚片品質不穩，有評論反映口感軟爛，下午茶時段種類較少。
-*   部分甜點如舒芙蕾口感乾硬，奶酪與泡芙外皮也受到批評。
-*   牛肉湯的肉質有時過韌、筋多難以咀嚼。
+*   部分熟食表現普通，有評論提到牛排肉質過老或海鮮（如螃蟹）不夠肥美。
+*   熱門食材（如龍蝦湯）排隊時間長且容易售罄，部分客人對此感到不滿。
+*   下午茶時段的部分菜色被批評較不精緻，像是現成食材加熱而非手工製作。
+*   食物溫度控管有時不穩定，偶爾有出現菜餚偏冷的情況。
 
 ## 地點停車
-*   位於喜來登大飯店 1 樓，用餐環境擁有挑高天井設計，開闊且不吵雜。
-*   設有付費室內停車場，亦可找尋路邊停車位。
-*   提供無障礙坡道，方便輪椅或推車進入。
+*   位於竹北喜來登飯店二樓，交通地點便利。
+*   設有大型地下停車場，車位充足且好停。
+*   用餐可享免費停車 4 小時，對開車族非常友善。
 
 ## 價位
-*   午餐約 $1,500-$1,700，晚餐與假日約 $1,800-$2,000（需另加 10% 服務費）。
-*   當月壽星可享 85 折優惠，部分評論建議購買網購餐券（如 MOMO、KKday）提升 CP 值。
-*   平日下午茶價格較實惠，約在 $1,000 以內。
+*   正餐價位約在 NT$1,200 至 NT$1,800 之間，下午茶約為 NT$700 至 NT$900。
+*   若以原價計算 CP 值見仁見智，但使用信用卡（如兩人五折）或餐券後非常划算。
+*   設有長者樂齡優惠及壽星折扣，適合特定族群省錢。
 
 ## 服務
-*   服務水準優異，收拾空盤與補菜的速度都非常快。
-*   餐點補充積極，不會有怕客人吃而延遲補餐的情況。
-*   整體態度親切專業，符合五星級飯店水準。
+*   服務態度普遍客氣，收盤速度快且主動。
+*   有部分評論反映電話預約不易撥通，建議使用線上訂位。
+*   部分外籍服務人員在溝通特定需求（如餐券差價計算）時偶爾會出現理解誤差。
 
 ## 其他
-*   餐點劃分為 12 個主題開放式廚房，包含日式、中式、印度、西洋料理等。
-*   適合家庭聚餐、慶生、浪漫約會或商務宴請。
+*   設有包廂，非常適合公司尾牙、大型團體聚餐。
+*   餐廳提供穆斯林友善餐飲及素食專區，照顧不同飲食需求的族群。
 
 ## 和其他餐廳比較
-標籤中出現「饗饗」，但內文未有具體細節比較；僅有一則負評提到此價位不如去吃別家餐廳。
+*   甜點精緻度與多樣性被評為優於「旭集」、「饗饗」及新竹「國賓」。
+*   熟食精緻度被認為略遜於新竹「國賓」，但整體口味變化與環境空間優於「大溪威斯汀」。
+*   相較於連鎖品牌，這裡的用餐空間較不擁擠，排隊壓力相對較小。
 
 ## 簡短總結
-適合喜愛印度料理、烤羊排及重視服務效率與用餐環境的饕客。對於追求高品質海鮮（特別是螃蟹）的人來說可能會失望，建議使用壽星優惠或餐券入場。
+適合甜點控、需要大型聚餐空間或持有信用卡優惠的消費者。如果追求極致的海鮮精緻度或堅持不排隊拿取熱門食材，可能會感到失望。
 
 # English Summary
 
 ## Name
-Kitchen 12 (十二廚) at Sheraton Grand Taipei Hotel.
+Feast (盛宴自助餐廳) at Sheraton Hsinchu Hotel.
 
 ## Recommendations / Strengths
-*   The roasted lamb chops are highly recommended for being tender and juicy.
-*   The Indian cuisine section is a highlight, offering authentic flavors in curries and naan.
-*   Special made-to-order aburi sushi (scallop and wagyu) provides great aroma and quality.
-*   The dessert section is extensive, with the white chocolate tart and strawberry yogurt ice cream receiving praise.
+*   The dessert section is widely considered the highlight, with canelés, cheesecakes, and tarts receiving high praise.
+*   Weekend-exclusive items like raw-grade scallops, freshly cooked lobster soup, and roasted Wagyu beef are popular.
+*   Diverse beverage and ice cream selections, including fresh juices and Keelung specialty "Bubble Ice."
+*   The dining environment is spacious and upscale, featuring generous table spacing and fresh flower decorations.
 
 ## Not Recommended / Weaknesses
-*   Crab legs are a common point of complaint, described as dry, thin, or lacking flavor.
-*   Sashimi quality is inconsistent, with some reviews mentioning a mushy texture.
-*   Specific desserts like the soufflé were criticized for being too dry, and the panna cotta was disappointing.
-*   Beef soup occasionally contains meat that is too tendonous or difficult to chew.
+*   Cooked food performance can be inconsistent; some noted tough steaks or less-than-fresh seafood like crabs.
+*   Highly popular items like lobster soup involve long wait times and often run out early.
+*   Afternoon tea selections are sometimes criticized for being less refined or resembling mass-produced items.
+*   Food temperature control issues were mentioned, with some dishes arriving lukewarm or cold.
 
 ## Location and Parking
-*   Situated on the 1st floor of the Sheraton Grand Taipei Hotel with a spacious high-ceiling atrium.
-*   Indoor paid parking is available, along with nearby roadside options.
-*   The facility is wheelchair accessible with small ramps at the entrance.
+*   Conveniently located on the 2nd floor of the Sheraton Hsinchu Hotel in Zhubei.
+*   Features a large underground parking lot with ample available spaces.
+*   Dining includes 4 hours of free parking, making it very convenient for those driving.
 
 ## Price
-*   Lunch is approximately $1,500–$1,700, while dinner and weekends are $1,800–$2,000 (plus 10% service charge).
-*   A 15% discount (85% of total) is available for birthday guests within their birth month.
-*   Afternoon tea offers better value for money, especially when using online vouchers like MOMO or KKday.
+*   Regular meal prices range from NT$1,200 to NT$1,800, while afternoon tea is around NT$700 to NT$900.
+*   While value for money at full price is debated, using credit card deals (e.g., 50% off for two) or vouchers makes it very affordable.
+*   Special discounts for seniors (70+) and birthday celebrants are available.
 
 ## Service
-*   Service is excellent, with staff clearing plates and replenishing food very efficiently.
-*   Food items are consistently restocked without long wait times.
-*   The staff maintains a professional and friendly attitude expected of a five-star hotel.
+*   Staff are generally polite and efficient at clearing empty plates.
+*   Reaching the restaurant by phone can be difficult; online booking is recommended.
+*   Occasional communication hurdles were reported with foreign staff regarding specific voucher or pricing inquiries.
 
 ## Other
-*   The buffet features 12 themed open kitchens covering various international cuisines.
-*   The elegant and bright atmosphere makes it suitable for family gatherings, dates, and business meetings.
+*   Private rooms are available, making it an excellent choice for corporate events or large group gatherings.
+*   The restaurant provides Muslim-friendly options and a dedicated vegetarian section.
 
 ## Comparison with Other Restaurants
-Review tags mention "INPARADISE" (饗饗), but no detailed comparison was provided in the text. One negative review suggested that other restaurants offer better value at this price point.
+*   The quality and variety of desserts are frequently rated higher than "A Joy," "Inparaise," and "Ambassador Hsinchu."
+*   The refinement of cooked dishes is considered slightly below "Ambassador Hsinchu" by some, but the environment is more spacious than "Westin Daxi."
+*   Compared to major chain buffets, this venue is less crowded and offers a more relaxed dining pace.
 
 ## Brief Summary
-Best suited for diners who prioritize excellent service, an elegant environment, and cooked specialties like lamb and Indian food. It may not satisfy seafood lovers looking for premium crab, so using discounts or vouchers is highly recommended.
+Highly recommended for dessert lovers, large groups, and those with specific credit card discounts or vouchers. It may not satisfy those seeking top-tier seafood refinement or those who dislike queuing for signature dishes.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-05-06T03:34:28.885Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-05-06T03:50:22.263Z.
