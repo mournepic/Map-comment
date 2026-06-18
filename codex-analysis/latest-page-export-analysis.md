@@ -1,88 +1,86 @@
 # 中文總結
 
 ## 名稱
-晴花鹿苑（4.5 顆星、744 則評論）
+日蘊堂（3.8 顆星、186 篇評論），位於淡水內的溫泉飯店 1 樓。
 
 ## 推薦/優點
-*   壯觀的鹿角蕨溫室「鹿苑之森」，收藏豐富且有專業導覽。
-*   日式枯山水庭園與廣闊的大草皮，非常適合拍照與寵物放風。
-*   餐廳空間挑高寬敞，洗手間極為乾淨且配有冷氣與香氛。
-*   提供鹿角蕨上板體驗課程與趣味扭蛋活動，適合植友交流。
+*   環境高雅寬敞且採光良好，裝潢具飯店水準，適合聚餐。
+*   熱炒類餐點品質高，特別是避風塘大蝦、炒蝦與小菜類受好評。
+*   推薦菜色包含：腐皮蝦捲、胭脂蝦皇餃、滋補人蔘雞湯、黑金奶黃流沙包與蛋塔。
+*   服務態度普遍親切，收盤速度快，對客訴或建議反應及時。
 
 ## 不推薦/缺點
-*   進出園區的產業道路狹窄，會車極具挑戰性。
-*   採全自助式服務，部分客人反映餐具使用一次性容器較無質感。
-*   夏季時溫室環境悶熱，且戶外區域遮蔭較不足。
-*   部分餐點如蛋糕或飲品份量較少，CP 值感受因人而異。
+*   甜品評價欠佳，特別是楊枝甘露被指與傳統口味完全不同，且桃膠木耳露料極少。
+*   部分港點與主食表現平庸，被指有中央廚房預製菜的味道，且部分熱炒過於油膩或鹹重。
+*   上菜速度不穩定，首輪出菜有時需等待 20 分鐘以上，且偶有漏單現象。
+*   QR Code 點餐系統有時間間隔限制（如 15 分鐘一次），且單次點餐數量有限。
 
 ## 地點停車
-*   位於淡水近郊，設有大型停車場，停車位充足。
-*   從淡金路轉入的小徑路幅極窄，開車需注意會車。
-*   可搭乘輕軌至「淡水行政中心站」，步行約 15 至 20 分鐘可達。
+*   鄰近淡水輕軌站，飯店位處地帶低調隱密。
+*   停車資訊分歧：有評論提到停車位充足且有免費停車場，也有人反應飯店地下室不開放用餐客停放，需停至步行 3-5 分鐘的合作停車場。
 
 ## 價位
-*   門票每人 200 元，可分別折抵餐飲 100 元及購買植栽 200 元。
-*   餐飲屬中高價位景觀餐廳收費，主食類約 200 至 400 元不等。
-*   植栽價格跨度大，從小苗到高單價珍稀品種皆有販售。
+*   吃到飽價位約在每人 $800 至 $1,200 之間（含服務費）。
+*   部分評論認為 CP 值不高，餐點品質不值此價格；但也有人認為搭配五人同行一人免費等優惠尚可接受。
 
 ## 服務
-*   工作人員與導覽員專業度高，對鹿角蕨養護諮詢非常親切有耐心。
-*   餐廳採櫃檯結帳與自助取餐、回收，服務費不另收取。
-*   特定時段提供免費導覽，幫助遊客深入認識園區植物。
+*   第一線服務人員態度多受肯定，專業且有禮貌。
+*   曾有主管級人員（副理）態度傲慢並大聲責難客人的負面紀錄。
+*   訂位與結帳環節需留意，有客人遇到優惠方案未主動扣除的情況。
 
 ## 其他
-*   寵物高度友善，狗狗在室內外皆可落地（需繫繩或評估喚回能力）。
-*   門票常附贈百八魚場等關係企業的抵用券（效期約兩個月）。
-*   環境規劃對於輪椅與嬰兒車相當友善，唯部分路段可能較顛簸。
+*   提供飲料吧自取，但部分評論認為飲料選擇偏少或甜度過高。
+*   提供壽星當月優惠（需事先告知，會贈送蛋糕）。
+*   一樓廁所數量偏少（女廁僅一間），人多時較不方便。
 
 ## 和其他餐廳比較
-無
+*   港點部分被評為輸給同在淡水的「阿基師觀海樓」。
+*   有評論提到其熱炒表現優於港點，甚至被戲稱為「被港點耽誤的港式熱炒店」。
 
 ## 簡短總結
-這裡是一處結合日式美學與植物專業的療癒秘境，非常適合鹿角蕨愛好者、寵物家庭與攝影愛好者。若不介意狹窄的進場道路與自助式服務，是個適合放慢步調享受下午茶的好地方。
+日蘊堂環境優美、服務親切，是適合看重用餐氣氛與多人聚餐的飯店餐廳。然而餐點口味褒貶不一，對於追求道地港點的饕客來說，CP 值與精緻度可能略顯不足。
 
 # English Summary
 
 ## Name
-Haruhana Plants (4.5 stars, 744 reviews)
+Riyuntang (3.8 stars, 186 reviews). Located on the 1st floor of a hotel in Tamsui.
 
 ## Recommendations / Strengths
-*   Impressive staghorn fern greenhouse "Forest of Staghorns" with informative professional tours.
-*   Beautiful Japanese-style Zen gardens and a vast lawn perfect for photography and pets.
-*   Spacious, high-ceiling restaurant and exceptionally clean, air-conditioned restrooms.
-*   Engaging activities like staghorn fern mounting workshops and plant gashapon machines.
+*   The dining environment is elegant, spacious, and bright with high-end hotel décor.
+*   Stir-fry dishes are highly praised for their quality and freshness.
+*   Recommended dishes include Crispy Shrimp Rolls, Rouge Shrimp Dumplings, Ginseng Chicken Soup, and Custard Buns.
+*   The staff is generally friendly, polite, and quick to clear empty plates.
 
 ## Not Recommended / Weaknesses
-*   The access road to the venue is extremely narrow, making passing oncoming cars difficult.
-*   Self-service model; some visitors find the use of disposable tableware lacking in atmosphere.
-*   Greenhouse temperatures can be very high in summer, and outdoor areas lack sufficient shade.
-*   Some food items and drinks are considered overpriced or small in portion size.
+*   The "Yangzhi Ganlu" (Mango Pomelo Sago) is heavily criticized for not being authentic and tasting like orange juice.
+*   Some Dim Sum items are perceived as standard central-kitchen frozen food with mediocre flavors.
+*   Service speed can be inconsistent; initial orders may take over 20 minutes, and missing orders are occasionally reported.
+*   The QR code ordering system has cooldown periods (e.g., 15 minutes between orders), which can be frustrating.
 
 ## Location and Parking
-*   Located in the outskirts of Tamsui with a large, free on-site parking lot.
-*   Navigating the entrance lane requires caution as it is only wide enough for one car.
-*   Accessible by taking the LRT to Tamsui District Admin Center Station, followed by a 15–20 minute walk.
+*   Located near the Tamsui Light Rail station in a quiet, low-key hotel environment.
+*   Parking reviews are mixed: some mentioned ample free parking, while others noted the hotel basement is off-limits for diners, requiring a 3-5 minute walk from a partner lot.
 
 ## Price
-*   Entrance fee is $200 NTD, which includes $100 off dining and $200 off plant purchases.
-*   Dining prices are mid-to-high, typical for scenic landscape restaurants.
-*   Plant prices range significantly, from affordable seedlings to high-end rare varieties.
+*   Buffet prices range from $800 to $1,200 per person (including service fees).
+*   Opinions on value are split; some feel it is overpriced for the quality, while others find it acceptable when using group discounts like "buy 4 get 1 free."
 
 ## Service
-*   Staff and guides are highly professional and patient when answering plant care questions.
-*   The cafeteria-style service requires guests to order at the counter and return their own trays.
-*   Complimentary scheduled guided tours provide great educational value for visitors.
+*   Frontline staff are mostly described as professional, polite, and attentive to customer needs.
+*   There was a specific complaint regarding a manager-level staff member being rude and raising their voice at guests.
+*   Guests are advised to double-check their bills to ensure promotional discounts are correctly applied.
 
 ## Other
-*   Highly pet-friendly, allowing dogs to be on the floor both indoors and outdoors (leash required).
-*   Tickets often come with discount vouchers for partner brands like Bai Ba Fish Market.
-*   The paths are generally wheelchair and stroller-friendly, though some areas may be slightly uneven.
+*   The self-service beverage bar has limited options, and some find the drinks overly sweet.
+*   Birthday promotions are available, including a complimentary cake if notified in advance.
+*   Restroom facilities on the first floor are limited (only one stall for women), which can be inconvenient.
 
 ## Comparison with Other Restaurants
-None
+*   One reviewer stated the Dim Sum is inferior to "A-Ji-Shi Guan Hai Lou" in Tamsui.
+*   It was described as a "stir-fry restaurant disguised as a Dim Sum place" because the stir-fry dishes outperform the actual Cantonese snacks.
 
 ## Brief Summary
-A healing sanctuary blending Japanese aesthetics with botanical expertise, perfect for plant enthusiasts, pet owners, and families. It is an ideal spot for a slow-paced afternoon tea, provided you are comfortable with narrow access roads and a self-service dining style.
+Riyuntang offers a beautiful atmosphere and friendly service, making it suitable for group gatherings and those prioritizing ambiance. However, the inconsistent food quality and non-traditional desserts may disappoint those specifically seeking high-quality, authentic Cantonese Dim Sum.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-18T22:34:54.607Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-18T22:52:34.714Z.
