@@ -1,60 +1,86 @@
 # 中文總結
 
 ## 名稱
-柴米夫妻新中式麵館 Charming Couple (4.3 顆星、1,118 評論)
+柴米夫妻中式麵館（4.3 顆星、1,118 則評論）。
 
 ## 推薦/優點
-餐點精緻好吃，被形容為有品味的功夫料理。份量大，且內用含文山包種茶或紅玉紅茶，不另加服務費。牛肉麵肉量驚人、入口即化，酸菜白肉麵湯頭濃郁且酸度足。蝦蝦麵湯頭濃厚帶椒麻味，鴨肉炒飯不油膩，左宗棠雞微辣好吃。環境裝潢好、明亮乾淨舒適，內用白飯和茶水免費。
+* 山東燒雞、Biang Biang 大寬麵與三味聚鼎牛肉麵是多數評論大推的招牌餐點。
+* 環境整潔美觀，裝潢具文青工業風且採光明亮，用餐氛圍舒適。
+* 內用提供免費白飯與現沖的紅玉、包種茶，餐點份量十足。
+* 醬料區提供多種特色辣椒與免費酸豆、干貝醬供客人取用。
 
 ## 不推薦/缺點
-蔥油餅曾有品質不佳的個案，有評論建議不點。點餐流程可能不夠流暢，需QR Code點餐後至櫃檯結帳才製作。餐具和衛生紙放置位置不明顯，初次用餐的顧客可能需尋找。
+* 出餐速度偏慢，尖峰時段常需等待 30 至 60 分鐘。
+* 部分評論反映蔥油餅口感過硬或太油，且酸菜白肉麵口味過鹹。
+* 曾有客人遭遇員工溝通態度不佳或對帶位邏輯感到不滿。
+* 二樓空調在夏日可能不夠涼爽，影響用餐舒適度。
 
 ## 地點停車
-店家位於淡水住宅區，曾搬遷至環境更清幽的地點。週末晚餐或假日人潮多，建議準時開店時抵達或事先訂位。評論中提到附近停車位充足，有付費與免費路邊停車選項。
+* 店址位於淡水，已從老街搬遷至水碓商圈。
+* 對面即有停車場，交通與停車相對便利。
+* 假日生意極好，建議務必事先訂位以避免長時間候位。
 
 ## 價位
-平均每人消費金額多數落在 $200-400 之間，但也有評論提到 $600-800 的消費。整體而言，價位屬中上偏高，但多數顧客認為餐點品質與份量物有所值。不另加服務費。
+* 平均每人消費金額約在 $200 至 $600 之間。
+* 以麵食館而言價格偏高，且需額外加收一成服務費。
+* 整體被視為中高價位的精緻麵食，CP 值評價兩極。
 
 ## 服務
-櫃檯男服務員態度良好，服務熱忱令人印象深刻，整體服務人員親切。服務評分普遍良好，但點餐流程的順暢度仍有改善空間。
+* 整體服務親切周到，店員對兒童與寵物皆非常友善。
+* 採用 QR Code 線上點餐，但結帳與庫存系統有時會出現不同步的情況。
+* 尖峰時段人手顯得不足，服務品質偶有不穩。
 
 ## 其他
-店家週一及特定日期（如6/7、6/21）公休。新店環境明亮乾淨，樓上可能也有用餐空間。多數用餐時段環境安靜，適合交談。
+* 餐廳為寵物友善空間，並提供兒童座椅。
+* 店內裝潢有特色，吧台座位區甚至提供充電插座與留言卡。
 
 ## 和其他餐廳比較
-評論提到若單看菜系品項，市面上有更專精的店家，但柴米夫妻能將多樣中式菜色綜合在一個門店，且品質口味皆維持在水準之上，這在淡水地區實屬難得。
+無。
 
 ## 簡短總結
-柴米夫妻是一間位於淡水、提供多樣精緻中式功夫料理的麵館。適合追求餐點品質、舒適用餐環境且不介意中高價位的家庭或朋友聚餐。建議於假日或熱門時段提前訂位，以確保良好的用餐體驗。
+這是一間裝潢現代且餐點精緻的中式麵館，適合注重環境與品質的家庭或朋友聚餐。因價位偏高且候位時間較長，較不推薦給追求平價快速或是趕時間的旅客。
 
 # English Summary
 
 ## Name
-Charming Couple Chinese Noodle Restaurant (4.3 stars, 1,118 reviews)
+Charming Couple (4.3 stars, 1,118 reviews).
 
 ## Recommendations / Strengths
-Dishes are exquisite and delicious, described as tasteful "kung fu" cuisine. Portions are generous, and dine-in includes Wenshan Baozhong or Ruby Black tea without additional charges or service fees. The beef noodles have an impressive amount of melt-in-your-mouth meat, and the pickled cabbage and pork noodles have a rich, sufficiently sour broth. The shrimp noodles have a rich and peppery broth, the duck fried rice is not greasy, and General Tso's chicken is mildly spicy and tasty. The ambiance is well-decorated, bright, clean, and comfortable, with complimentary rice and tea for dine-in.
+* Highly recommended dishes include Shandong Roasted Chicken, "Biang Biang" wide noodles, and "Three-Flavor" beef noodles.
+* The environment is exceptionally clean and stylish, featuring a modern industrial aesthetic with great natural lighting.
+* Dine-in customers enjoy complimentary white rice and hot tea bags (Ruby or Wenshan Pouchong).
+* The self-serve sauce station offers a variety of premium condiments like scallops sauce, pickled beans, and specialty chili oils.
 
 ## Not Recommended / Weaknesses
-The scallion pancake quality has been inconsistent in some instances, with one review suggesting not to order it. The ordering process may not be very smooth, requiring QR code ordering followed by payment at the counter before preparation begins. Utensils and tissues are placed at the table, which might be hard for first-time diners to locate.
+* Food preparation and seating wait times can be quite long, often exceeding 30 to 60 minutes during peak hours.
+* Some reviews mention that the green onion pancakes can be too hard or greasy, and the sour cabbage soup can be overly salty.
+* Occasional complaints regarding service communication issues or inconsistent seating logic.
+* The air conditioning on the second floor can feel insufficient during hot weather.
 
 ## Location and Parking
-The restaurant is located in a residential area of Tamsui and has relocated to a more tranquil spot. It gets crowded on weekend evenings and holidays, so arriving promptly at opening time or making reservations in advance is recommended. Reviews mention ample nearby parking, including both paid and free roadside options.
+* Located in Tamsui; the business recently moved from the Old Street area to the Shuidui business district.
+* Convenient parking is available at the lot directly across from the restaurant.
+* Extremely popular on weekends; making a reservation in advance is highly recommended.
 
 ## Price
-The average spending per person is mostly reported between $200-400, though one review mentioned $600-800. Overall, pricing is considered mid-to-high, but most customers feel the quality and portion sizes offer good value for money. No service charge is added.
+* Average spending is between $200 and $600 per person.
+* Pricing is on the higher side for a noodle shop, and a 10% service charge is applied.
+* It is generally viewed as a premium dining experience rather than a budget-friendly option.
 
 ## Service
-The male counter staff received praise for his excellent attitude and enthusiasm, and the overall staff is friendly. Service ratings are generally good, but the smoothness of the ordering process could be improved.
+* Generally professional and friendly, with a welcoming attitude towards children and pets.
+* Uses a QR code system for ordering, though there are reports of synchronization issues between the online menu and actual inventory.
+* Service quality can occasionally dip during busy periods due to staffing limitations.
 
 ## Other
-The restaurant is closed on Mondays and specific dates (e.g., June 7th, June 21st). The new location offers a bright and clean environment, and there might be additional seating upstairs. Most dining times are reported as quiet and suitable for conversation.
+* The restaurant is pet-friendly and provides high chairs for children.
+* Unique interior details include bar seating with charging outlets and wall decorations with guest message cards.
 
 ## Comparison with Other Restaurants
-Reviews indicate that while more specialized establishments might exist for individual dish categories, this restaurant successfully combines various Chinese dishes under one roof with consistent quality and taste, which is considered rare in the Tamsui area.
+None.
 
 ## Brief Summary
-Charming Couple is a Tamsui-based noodle restaurant offering a variety of exquisite Chinese "kung fu" dishes. It is suitable for customers who value dish quality, a comfortable dining environment, and are willing to pay a mid-to-high price, especially for family or friend gatherings. Reservations are recommended during holidays or peak hours for the best experience.
+Charming Couple is a premium Chinese noodle house ideal for those who value a clean, modern atmosphere and refined flavors. It is perfect for family gatherings or group dinners, but may not suit budget-conscious diners or those in a hurry due to its higher price point and long wait times.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-2.5-flash` at 2026-06-18T22:16:07.236Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-18T22:25:04.724Z.
