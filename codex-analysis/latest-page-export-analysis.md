@@ -1,84 +1,82 @@
 # 中文總結
 
 ## 名稱
-林本源園邸（4.4 顆星、17,290 則評論）；俗稱板橋林家花園。
+林本源園邸（4.4顆星、17,290 則評論），俗稱板橋林家花園。
 
 ## 推薦/優點
-* 臺灣僅存最完整的蘇州留園式建築，風景精緻優雅且處處是景。
-* 園區內提供定時導覽服務，內容詳盡風趣，能深入了解建築細節與家族歷史。
-* 環境幽靜，是繁華板橋市區中難得的寧靜綠洲，非常適合散步與漢服攝影。
+* 台灣僅存最完整的園林建築，整體仿蘇州留園設計，具有極高歷史價值。
+* 園內環境幽靜，是鬧中取靜的絕佳景點，適合漫步與放鬆。
+* 非常適合古裝、漢服或 Cosplay 愛好者前往取景拍照。
+* 專業導覽能深入介紹建築意涵與林家歷史，極受好評。
 
 ## 不推薦/缺點
-* 目前部分區域正在整修施工中，景觀略受影響。
-* 戶外區域有土芒果掉落的風險，行走時需多加注意。
-* 有評論反應古蹟保存資源投入不足，部分裝飾與古蹟現狀略顯殘破。
+* 目前部分區域正在進行維修，部分景觀可能受限或有圍欄。
+* 夏季時需留意園內土芒果掉落，避免被砸中。
+* 蚊蟲可能較多，且有評論反應部分古蹟保存與資源投入尚有提升空間。
 
 ## 地點停車
-* 交通便利，從捷運府中站 1 號出口步行約 10 至 15 分鐘即可抵達。
-* 附近有林家花園、北門街等公車站牌。
-* 周邊環境熱鬧，附近亦有收費停車場供開車族使用。
+* 鄰近捷運府中站 1 號出口，步行約 12 至 15 分鐘即可抵達。
+* 附近有公車站牌（林家花園站）及林家花園收費停車場，交通與停車尚算便利。
 
 ## 價位
-* 全票 80 元，目前因部分整修期間提供 40 元優惠票價。
-* 新北市民、65 歲以上長者、12 歲以下孩童及在學學生憑證免費。
-* 票價相對親民，整體參觀 CP 值極高。
+* 全票為 80 元，目前因維修期間優惠為 40 元。
+* 新北市民憑身分證、65 歲以上長者、學生及 12 歲以下孩童皆可免費入園。
+* 整體被認為門票便宜、CP 值極高。
 
 ## 服務
-* 導覽服務廣受好評，特別是「三落大厝」導覽能進入私人禁地，收穫良多。
-* 工作人員專業，導覽梯次發放參觀證流程清楚。
-* 服務台提供領證與諮詢服務，並設有小巧的禮品店。
+* 導覽人員專業親切，部分導覽員甚至為林家後代，內容生動有趣。
+* 參觀三落大厝需提早至服務台領取限量參觀證，每梯次僅限 15 人。
 
 ## 其他
-* 「三落大厝」內部因供奉祖先牌位且屬私人產業，嚴禁攝影。
-* 建議預留約 1 至 2.5 小時停留，才能完整聽完導覽並逛遍園區。
-* 園內有兇猛的鵝與野鴨等生物，觀察時需保持距離。
+* 三落大厝內部因供奉祖先牌位，僅供參觀且嚴禁拍照。
+* 園內設有公廁與小巧的禮品店供遊客使用。
 
 ## 和其他餐廳比較
-無
+* 評論中提到台灣「五大家族」的歷史地位，指出此處是相較於霧峰林家、鹿港辜家等，最完整的園林範例。
 
 ## 簡短總結
-林本源園邸是全台保存最完整的園林古蹟，適合歷史愛好者、攝影玩家與親子家庭悠閒走訪。強烈建議參加專業導覽以避免走馬看花，是新北市極具文化價值的必訪景點。
+適合喜愛歷史古蹟、傳統建築與攝影美照的遊客，特別推薦給新北市民與學生。不適合純粹追求現代遊樂設施或對步行、蚊蟲較敏感的民眾。
+
+---
 
 # English Summary
 
 ## Name
-Lin Family Mansion and Garden (4.4 stars, 17,290 reviews); also known as the Lin Ben Yuan Family Mansion and Garden.
+The Lin Family Mansion and Garden (4.4 stars, 17,290 reviews).
 
 ## Recommendations / Strengths
-* It is the most complete surviving example of a traditional Suzhou-style garden in Taiwan, offering stunning views at every turn.
-* The guided tours are highly recommended, providing professional and engaging insights into historical architecture and lifestyle.
-* The atmosphere is peaceful and quiet, making it an excellent retreat from the busy city and a perfect spot for Hanfu cosplay photography.
+* It is the most complete traditional garden architecture remaining in Taiwan, modeled after the Lingering Garden in Suzhou.
+* The atmosphere is peaceful and serene, offering a quiet retreat within the busy city.
+* Highly recommended for photography enthusiasts, especially those interested in Hanfu or Cosplay.
+* Professional guided tours provide deep insights into the historical background and architectural symbolism.
 
 ## Not Recommended / Weaknesses
-* Some sections of the garden are currently closed or partially obscured due to ongoing renovation work.
-* Visitors should be careful of falling mangoes from trees during certain seasons.
-* Some reviewers expressed concern that ancient relics need more government resources for better maintenance and preservation.
+* Some areas are currently under renovation, which may impact the visual experience.
+* Be cautious of falling mangoes from the trees during certain seasons.
+* Some visitors mentioned concerns regarding the long-term preservation and the need for more maintenance resources.
 
 ## Location and Parking
-* Conveniently located within a 10-15 minute walk from MRT Fuchu Station (Exit 1).
-* Several bus stops, including "Lin Family Garden" and "Beimen Street," are located nearby.
-* Paid parking lots are available in the surrounding area for those driving.
+* Located within a 12-15 minute walk from MRT Fuchu Station (Exit 1).
+* Accessible via bus (Lin Family Garden stop) and features a nearby paid parking lot.
 
 ## Price
-* General admission is NT$80, but currently discounted to NT$40 during the renovation period.
-* Admission is free for New Taipei City residents, seniors over 65, children under 12, and students with valid ID.
-* The pricing is considered very affordable and offers great value for money.
+* The standard admission is 80 TWD, currently discounted to 40 TWD due to ongoing repairs.
+* Free entry is provided for New Taipei City residents (with ID), seniors (65+), students, and children under 12.
+* Considered to offer excellent value for money.
 
 ## Service
-* Guided services are highly praised, particularly the specialized tour for the "Three-Courtyard Mansion."
-* Staff members are professional; the process for obtaining limited tour passes for the residential area is well-organized.
-* The venue includes a information desk and a small gift shop for visitors.
+* Tour guides are professional and friendly; some are even descendants of the Lin family.
+* Entry to the "Three-Courtyard Mansion" requires a separate pass from the service desk, with a limit of 15 people per session.
 
 ## Other
-* Photography is strictly prohibited inside the "Three-Courtyard Mansion" as it is private property and houses ancestral tablets.
-* It is recommended to spend 1 to 2.5 hours to fully enjoy the tours and the scenery.
-* Be cautious of the geese and ducks in the garden, as they can sometimes be aggressive toward other animals or visitors.
+* Photography is strictly prohibited inside the Three-Courtyard Mansion as it still houses ancestral tablets.
+* Public restrooms and a small gift shop are available on-site.
 
 ## Comparison with Other Restaurants
-None
+* Reviews compare the site to other historical estates of Taiwan's "Five Great Families," such as the Wufeng Lin family and the Lukang Koo family, highlighting its completeness.
 
 ## Brief Summary
-This national historic site is a must-visit for history buffs, photography enthusiasts, and families looking for a cultural excursion. Participating in a guided tour is essential to fully appreciate the architectural beauty and rich heritage of Taiwan’s former wealthiest family.
+An ideal destination for history buffs, architecture lovers, and photography fans, especially New Taipei City residents. It may not be suitable for those looking for modern entertainment or those who dislike outdoor walking and insects.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-20T21:47:41.006Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-20T21:51:51.744Z.
