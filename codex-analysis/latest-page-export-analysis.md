@@ -1,60 +1,84 @@
 # 中文總結
 
 ## 名稱
-阿基師觀海樓（3.7顆星、2,379則評論），位於淡水漁人碼頭福容大飯店內。
+林本源園邸（4.4 顆星、17,290 則評論）；俗稱板橋林家花園。
 
 ## 推薦/優點
-餐點方面，鮮蝦腐皮卷、大蒜板條鮮蝦、南瓜米粉、燒臘三拼（尤其是叉燒與燒鴨）、招牌蝦皇餃和魚子燒賣皇等港點常受好評。許多熱炒菜色如廣炒麵、炒高麗菜、橙汁排骨等也被認為有水準。餐廳景觀優美，可欣賞淡水河景與淡江大橋。具飯店系統優勢，環境舒適、出菜穩定。部分傳統粵菜味道厚實，適合家庭聚餐和長輩。
+* 臺灣僅存最完整的蘇州留園式建築，風景精緻優雅且處處是景。
+* 園區內提供定時導覽服務，內容詳盡風趣，能深入了解建築細節與家族歷史。
+* 環境幽靜，是繁華板橋市區中難得的寧靜綠洲，非常適合散步與漢服攝影。
 
 ## 不推薦/缺點
-餐點品質與溫度不穩定，部分熱炒、烤鴨、鳳梨蝦球、叉燒等有負評，出現過鹹、冷、有腥味或口感不佳的狀況。服務人員經驗不足，外籍員工溝通有困難，部分櫃檯人員態度不佳。上菜速度緩慢，易有漏單或錯單問題。用餐空間有時過於擁擠，環境清潔與服務流程有待加強，如服務生收廚餘後未洗手碰碗筷。QR Code點餐系統對長輩不便且有時有誤。
+* 目前部分區域正在整修施工中，景觀略受影響。
+* 戶外區域有土芒果掉落的風險，行走時需多加注意。
+* 有評論反應古蹟保存資源投入不足，部分裝飾與古蹟現狀略顯殘破。
 
 ## 地點停車
-餐廳位於淡水漁人碼頭福容飯店旁，鄰近輕軌站，景色優美，可觀賞淡江大橋。停車方便，福容飯店地下停車場消費可抵停車費（通常最多4小時），電動車有充電樁。假日人潮眾多，強烈建議提前訂位。現場候位流程有時混亂且需排隊許久。
+* 交通便利，從捷運府中站 1 號出口步行約 10 至 15 分鐘即可抵達。
+* 附近有林家花園、北門街等公車站牌。
+* 周邊環境熱鬧，附近亦有收費停車場供開車族使用。
 
 ## 價位
-整體價位偏高，人均消費多落在新台幣600-1000元區間，部分菜色如鳳梨蝦球CP值低。港點價格相對較高，一份小點約100元起。茶資一人40元，115公分以上兒童也需收取。飯店房客或淡水居民可享折扣優惠，節慶餐期可能設有低消。
+* 全票 80 元，目前因部分整修期間提供 40 元優惠票價。
+* 新北市民、65 歲以上長者、12 歲以下孩童及在學學生憑證免費。
+* 票價相對親民，整體參觀 CP 值極高。
 
 ## 服務
-服務品質不穩定，部分員工親切主動，但外籍服務生常有溝通障礙或經驗不足。上菜速度慢、易有漏單或錯單，尤其在尖峰時段。櫃檯接待和結帳流程也常被抱怨混亂。部分客訴處理尚可，但整體服務水準與飯店定位不符，尤其針對長輩使用QR Code點餐不友善。
+* 導覽服務廣受好評，特別是「三落大厝」導覽能進入私人禁地，收穫良多。
+* 工作人員專業，導覽梯次發放參觀證流程清楚。
+* 服務台提供領證與諮詢服務，並設有小巧的禮品店。
 
 ## 其他
-餐廳氣氛佳，尤其靠窗座位可欣賞淡水河景與淡江大橋，適合聚餐。提供飯店一泊二食方案、壽星優惠、入會贈券等，並偶有60歲以上長輩贈甜湯活動，但實際贈送狀況不一。餐廳採手機QR Code點餐，但部分評論提到仍有餐車。設有素食餐點選項。
+* 「三落大厝」內部因供奉祖先牌位且屬私人產業，嚴禁攝影。
+* 建議預留約 1 至 2.5 小時停留，才能完整聽完導覽並逛遍園區。
+* 園內有兇猛的鵝與野鴨等生物，觀察時需保持距離。
 
 ## 和其他餐廳比較
-評論中提到，餐廳的港點水準高於一般吃到飽港點，但部分品項（如燒賣）被認為與路邊小吃店無異。有評論認為其品質不若台北市區其他優秀港式飲茶餐廳，不值得特地前往。烤鴨口味與一般北京烤鴨不同。
+無
 
 ## 簡短總結
-阿基師觀海樓擁有優美的淡水河景，部分港點與熱炒表現出色，適合家庭聚餐和重視用餐氛圍的顧客。然而，餐點品質不穩定、服務效率與溝通有待加強，且價格偏高。若追求穩定高品質餐點與流暢服務，可能需要審慎考慮。
+林本源園邸是全台保存最完整的園林古蹟，適合歷史愛好者、攝影玩家與親子家庭悠閒走訪。強烈建議參加專業導覽以避免走馬看花，是新北市極具文化價值的必訪景點。
 
 # English Summary
 
 ## Name
-Ah-Chi-Shih Guanhai Lou (3.7 stars, 2,379 reviews), located within the Fullon Hotel Tamsui Fisherman's Wharf.
+Lin Family Mansion and Garden (4.4 stars, 17,290 reviews); also known as the Lin Ben Yuan Family Mansion and Garden.
 
 ## Recommendations / Strengths
-Many dim sum items are praised, such as the Fresh Shrimp Crispy Beancurd Roll (described as "plump and springy," "firm," "crispy thin"), Garlic Prawn with Flat Noodles (strong garlic flavor, large fresh prawns), Pumpkin Vermicelli (a highlight, rich and sweet), and Signature Har Gow (translucent skin, crunchy shrimp). The restaurant offers a beautiful view of the Tamsui River and Danjiang Bridge. It benefits from a hotel system, providing a comfortable environment and stable food delivery. Some traditional Cantonese dishes are noted for their robust flavors, making it suitable for family gatherings and elder guests.
+* It is the most complete surviving example of a traditional Suzhou-style garden in Taiwan, offering stunning views at every turn.
+* The guided tours are highly recommended, providing professional and engaging insights into historical architecture and lifestyle.
+* The atmosphere is peaceful and quiet, making it an excellent retreat from the busy city and a perfect spot for Hanfu cosplay photography.
 
 ## Not Recommended / Weaknesses
-Food quality and temperature are inconsistent; some hot dishes, roasted duck, pineapple shrimp balls, and char siu received negative feedback (e.g., too salty, cold, fishy, or poor texture). Service quality is unstable, with some foreign staff having communication issues or lacking experience. Slow serving speed, missed orders, or incorrect orders are frequent complaints, especially during peak hours. The dining area can be crowded, and hygiene practices need improvement (e.g., staff handling clean tableware after clearing food waste without washing hands). The QR code ordering system is inconvenient for elderly guests and sometimes inaccurate.
+* Some sections of the garden are currently closed or partially obscured due to ongoing renovation work.
+* Visitors should be careful of falling mangoes from trees during certain seasons.
+* Some reviewers expressed concern that ancient relics need more government resources for better maintenance and preservation.
 
 ## Location and Parking
-The restaurant is situated next to the Fullon Hotel at Tamsui Fisherman's Wharf, near the Light Rail station, offering beautiful views of the Danjiang Bridge. Parking is convenient at the Fullon Hotel's underground parking, where spending can often offset parking fees (up to 4 hours). EV charging stations are also available. Due to high foot traffic on weekends, reservations are highly recommended. The on-site queuing process can be chaotic and involve long waits.
+* Conveniently located within a 10-15 minute walk from MRT Fuchu Station (Exit 1).
+* Several bus stops, including "Lin Family Garden" and "Beimen Street," are located nearby.
+* Paid parking lots are available in the surrounding area for those driving.
 
 ## Price
-Overall prices are on the higher side, with average spending often ranging from NT$600-1000 per person. Some dishes, like the pineapple shrimp balls, are considered low value for money. Dim sum items are relatively expensive, starting around NT$100. A tea fee of NT$40 per person applies, including children above 115cm. Hotel guests or Tamsui residents may receive discounts, and special minimum spending requirements might be imposed during festive periods.
+* General admission is NT$80, but currently discounted to NT$40 during the renovation period.
+* Admission is free for New Taipei City residents, seniors over 65, children under 12, and students with valid ID.
+* The pricing is considered very affordable and offers great value for money.
 
 ## Service
-Service quality is inconsistent; some staff members are friendly and proactive, but foreign staff often face communication barriers or lack experience. Serving speed is slow, and order discrepancies (missed or incorrect items) are common, particularly during busy times. Front desk reception and checkout processes are also frequently criticized for being disorganized. While some customer complaints are handled acceptably, the overall service standard does not always align with a hotel restaurant, especially regarding the QR code ordering system's lack of elderly-friendliness.
+* Guided services are highly praised, particularly the specialized tour for the "Three-Courtyard Mansion."
+* Staff members are professional; the process for obtaining limited tour passes for the residential area is well-organized.
+* The venue includes a information desk and a small gift shop for visitors.
 
 ## Other
-The restaurant offers a pleasant atmosphere, especially window seats with views of the Tamsui River and Danjiang Bridge, making it suitable for gatherings. It provides hotel stay-and-dine packages, birthday discounts, membership coupons, and occasionally free dessert for seniors over 60, though availability varies. The restaurant uses a mobile QR code for ordering, but some reviews still mention traditional dim sum trolleys. Vegetarian options are available.
+* Photography is strictly prohibited inside the "Three-Courtyard Mansion" as it is private property and houses ancestral tablets.
+* It is recommended to spend 1 to 2.5 hours to fully enjoy the tours and the scenery.
+* Be cautious of the geese and ducks in the garden, as they can sometimes be aggressive toward other animals or visitors.
 
 ## Comparison with Other Restaurants
-Reviews indicate that the dim sum quality is superior to typical all-you-can-eat dim sum, but some items (e.g., siumai) were deemed comparable to street food. Some reviewers felt it wasn't worth a special trip compared to other excellent Cantonese restaurants in Taipei city. The roasted duck's flavor differs from traditional Beijing roasted duck.
+None
 
 ## Brief Summary
-Ah-Chi-Shih Guanhai Lou offers beautiful Tamsui waterfront views and some standout dim sum and stir-fry dishes, making it suitable for family gatherings and those who value dining ambiance. However, inconsistent food quality, variable service efficiency, and communication issues, coupled with higher prices, are significant drawbacks. Diners seeking consistently high-quality food and seamless service might need to temper their expectations or consider other options.
+This national historic site is a must-visit for history buffs, photography enthusiasts, and families looking for a cultural excursion. Participating in a guided tour is essential to fully appreciate the architectural beauty and rich heritage of Taiwan’s former wealthiest family.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-2.5-flash` at 2026-06-18T23:22:45.707Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-20T21:47:41.006Z.
