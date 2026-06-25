@@ -1,88 +1,82 @@
 # 中文總結
 
 ## 名稱
-牛仔莊園 Cowboy Manor（4.8 顆星、11,406 則評論）
+板橋凱撒大飯店 蓮花餐廳 Lotus Thai Cuisine（4.7 顆星、2,909 則評論）。
 
 ## 推薦/優點
-*   美式西部牛仔風情造景極具特色，環境寬闊、景色優美，非常適合打卡拍照。
-*   設有馬場可近距離觀察、拍照或餵食迷你馬，對小孩與動物愛好者極具吸引力。
-*   餐點口味普遍獲好評，特別推薦牛排、雙層牛肉起士堡、起司薄餅與戰斧豬排。
-*   寵物極度友善，提供寵物水盆、專用椅，且空間大適合毛孩散步。
+*   餐點口味豐富，推薦厚實的金錢蝦餅與月亮蝦餅、椰薑黃醬烤鱸魚及各式咖哩（如仁當、山羊瑪莎拉）。
+*   甜點深受好評，特別是摩摩喳喳被多位評論者讚譽為目前吃過最好吃的版本。
+*   用餐環境優雅且充滿綠意，被形容為「都市中的綠洲」，桌距寬敞不擁擠。
+*   熱食採現點現做，確保上桌時的溫度與新鮮度。
 
 ## 不推薦/缺點
-*   假日用餐限時 90 分鐘至 2 小時，在點餐出餐後剩餘時間不多，顧客普遍感到非常倉促。
-*   戶外用餐區有小黑蚊、蒼蠅等昆蟲滋擾問題，需注意防蚊。
-*   部分評論反映出餐速度不穩，偶有漏單、主餐上太慢或餐點熟度不符要求的情況。
-*   個別評論提到曾見員工對馬匹言行不當，或冷氣、限時溝通不佳等個案。
+*   部分料理品質偶有不穩，例如打拋豬調味過鹹、叻沙麵不夠入味。
+*   魚類料理評價兩極，有評論提到紙包魚烤得偏乾，不如蒸魚嫩口。
+*   素食者選擇較少，僅提供簡單的素食套餐，較不適合純素者聚餐。
+*   特定海鮮如蝦子的品質被認為還有提升空間。
 
 ## 地點停車
-*   位於新北三芝，位置較偏但導航易達，部分聯外路段較為狹窄。
-*   提供園區內外大型免費停車場，停車位充足且便利。
-*   強烈建議事先預約，現場候位可能需等待較長時間。
+*   位於板橋凱撒大飯店 2 樓，鄰近板橋車站，交通非常便利。
+*   飯店內設有停車場，但有評論提醒停車位偶爾較難找，建議預留時間。
 
 ## 價位
-*   人均消費約 $400 至 $1,000 元，屬中高價位景觀餐廳。
-*   餐點通常需外加 10% 服務費，且設有每人一餐點一飲品的低消限制。
-*   多數顧客認為份量十足、CP 值尚可，但也有人認為單價略顯偏貴。
+*   每人消費約 400 至 1,000 元不等，提供單點、雙人套餐及特定的「南洋吃到飽」模式。
+*   加入凱撒會員可享有「買四送一」等福利，整體被認為在飯店餐飲中性價比極高。
 
 ## 服務
-*   整體評價正面，服務人員態度親切熱情，會主動協助拍照並照顧孩童或寵物需求。
-*   提供貼心小細節，如免費髮圈、長輩用靠枕與寵物水碗。
-*   繁忙時段服務品質偶有落差，且限時提醒可能讓顧客感到壓力。
+*   服務人員態度親切且熱情，上菜速度極快，補水與清理桌面非常勤快。
+*   對單身客人非常友善，且有點餐細心介紹等加分細節。
 
 ## 其他
-*   提供免費的牛仔帽、背心等配件供客人穿搭拍照。
-*   設有室內冷氣區與半開放式的屋簷戶外區。
-*   部分咖啡品項提供續杯服務。
+*   餐廳風格結合手工編藤與工業風燈飾，並設有哺乳室，屬於親子友善餐廳。
+*   自助區提供希爾頓同款咖啡機與多款南洋風飲料、甜點。
 
 ## 和其他餐廳比較
-有評論提到此地的氛圍與陽明山的「美國村」相似。
+*   座位比一般 Buffet 寬敞，不會像其他餐廳需與鄰桌擠在一起。
+*   評論指出其骰子牛口味比「悅市集」更好，摩摩喳喳的味道也優於「饗泰多」。
 
 ## 簡短總結
-這裡非常適合親子家庭、寵物主人與喜愛網美拍照的人群，能享受優美的西部莊園美景與互動馬兒。若不喜歡趕時間用餐或在意蚊蟲，建議選擇平日前往以避開限時壓力。
+這是一間適合家庭聚餐或節慶慶祝的高質感南洋料理餐廳，環境舒適且服務卓越。推薦給喜愛精緻泰、印、馬風味的讀者，但對極重口味或全素食者來說可能略顯不足。
 
 # English Summary
 
 ## Name
-Cowboy Manor (4.8 stars, 11,406 reviews)
+Lotus Thai Cuisine, Caesar Park Hotel Banqiao (4.7 stars, 2,909 reviews).
 
 ## Recommendations / Strengths
-*   Authentic American West-themed ranch with excellent photo spots and a spacious environment.
-*   Features adorable miniature horses for close-up interaction, feeding, and photography.
-*   Highly praised dishes include steaks, double cheeseburgers, cheese quesadillas, and tomahawk pork chops.
-*   Exceptional pet-friendly policies, providing water bowls and chairs for pets in a large outdoor space.
+*   High-quality Southeast Asian dishes, with specific praise for the thick Moon/Money Shrimp Cakes, grilled seabass, and various curries (Rendang, Masala).
+*   The desserts are a major highlight; many reviewers consider their Momo Chacha the best they have ever had.
+*   The ambiance is described as an "urban oasis," featuring elegant greenery and spacious seating arrangements that ensure privacy.
+*   Hot dishes are made-to-order, ensuring high quality and optimal serving temperature.
 
 ## Not Recommended / Weaknesses
-*   Strict dining time limits (90–120 minutes) on weekends feel very rushed for many guests.
-*   Outdoor seating areas are prone to midges, flies, and other insects.
-*   Inconsistent service speed with occasional reports of missed orders or slow serving times for main courses.
-*   Occasional complaints regarding staff attitude toward animals or rigid communication regarding time limits.
+*   Inconsistency in seasoning was noted, with some dishes like Pad Kra Pao being overly salty and Laksa lacking depth.
+*   Certain fish preparations, such as the paper-wrapped fish, were reported to be dry.
+*   Limited options for vegetarians, as only simple set meals are available.
+*   Some seafood quality, particularly the shrimp in certain dishes, was noted as needing improvement.
 
 ## Location and Parking
-*   Located in Sanzhi, New Taipei City; easy to find via GPS, though some access roads are narrow.
-*   Ample free parking is available in both on-site and overflow lots for cars and motorcycles.
-*   Reservations are highly recommended, especially during weekends and holidays.
+*   Conveniently located on the 2nd floor of the Caesar Park Hotel Banqiao, near the Banqiao railway station.
+*   On-site hotel parking is available, though some guests mentioned it can be difficult to find a spot during busy times.
 
 ## Price
-*   Average cost per person is around $400 to $1,000, typical for a scenic/theme restaurant.
-*   A 10% service charge is usually added, and there is often a minimum spend of one meal and one drink per person.
-*   While portions are generous, some guests find the pricing a bit steep for the food quality.
+*   Average spending ranges from NT$400 to NT$1,000 per person, with options for à la carte, sets, and periodic "all-you-can-eat" deals.
+*   Members can enjoy "Buy 4 Get 1 Free" promotions, making it a high-value choice for hotel dining.
 
 ## Service
-*   Generally described as warm and professional; staff often assist with photos and cater to children's needs.
-*   Thoughtful amenities provided, such as hair ties for long-haired guests, cushions for the elderly, and pet bowls.
-*   Service quality may fluctuate during peak hours, and dining time reminders can feel intrusive to some.
+*   Service is exceptional, characterized by extremely fast serving speeds and attentive staff who frequently refill water.
+*   The staff is noted for being professional, friendly to solo diners, and detailed in their menu introductions.
 
 ## Other
-*   Free cowboy hats and vests are available for guests to use for photography.
-*   Seating options include indoor air-conditioned areas and semi-outdoor patio zones.
-*   Refillable coffee is mentioned as a specific perk in several reviews.
+*   The interior design combines rattan elements with light industrial aesthetics and includes family-friendly facilities like a nursing room.
+*   The self-serve area features high-end coffee machines and a variety of Southeast Asian drinks and sweets.
 
 ## Comparison with Other Restaurants
-Some reviews mentioned that the atmosphere is similar to the American Village in Yangmingshan.
+*   The seating is much more spacious and less crowded than typical buffet restaurants.
+*   Reviewers noted that the diced beef is superior to that of "Yue Market," and the Momo Chacha is better than the version served at "Siam More."
 
 ## Brief Summary
-Suitable for families, pet owners, and photography enthusiasts who enjoy a Western-themed ranch experience. It is less recommended for those who prefer a slow-paced meal or are sensitive to bugs; visiting on weekdays is advised to avoid time limits.
+This is an ideal venue for family gatherings or special occasions, offering a refined Southeast Asian fusion dining experience with excellent service. It is highly recommended for those seeking a comfortable, upscale atmosphere, though it may not cater as well to strict vegetarians or those seeking traditional street-food intensity.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-24T01:34:02.490Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-25T01:17:35.618Z.
