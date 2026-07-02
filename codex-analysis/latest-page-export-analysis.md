@@ -1,82 +1,60 @@
 # 中文總結
 
 ## 名稱
-板橋凱撒大飯店 蓮花餐廳 Lotus Thai Cuisine（4.7 顆星、2,909 則評論）。
+JAI 宅義大利麵（西門店）（4.4 顆星、4,793 篇評論）
 
 ## 推薦/優點
-*   餐點口味豐富，推薦厚實的金錢蝦餅與月亮蝦餅、椰薑黃醬烤鱸魚及各式咖哩（如仁當、山羊瑪莎拉）。
-*   甜點深受好評，特別是摩摩喳喳被多位評論者讚譽為目前吃過最好吃的版本。
-*   用餐環境優雅且充滿綠意，被形容為「都市中的綠洲」，桌距寬敞不擁擠。
-*   熱食採現點現做，確保上桌時的溫度與新鮮度。
+橘醬系列餐點受到廣泛好評，味道特別、濃郁不膩、酸甜平衡，尤其適合不喜歡太膩或太酸口味的人。蛤蜊料理份量多且新鮮飽滿，可免費加麵/飯，雙人套餐份量足夠，讓人吃得很飽。青花椒脆皮炸雞、日式焦糖檸檬炸雞和酥炸魷魚佐辣味優格等炸物也常被稱讚酥脆美味。餐廳環境寬敞明亮舒適，裝潢有特色，適合拍照打卡與朋友聚餐。
 
 ## 不推薦/缺點
-*   部分料理品質偶有不穩，例如打拋豬調味過鹹、叻沙麵不夠入味。
-*   魚類料理評價兩極，有評論提到紙包魚烤得偏乾，不如蒸魚嫩口。
-*   素食者選擇較少，僅提供簡單的素食套餐，較不適合純素者聚餐。
-*   特定海鮮如蝦子的品質被認為還有提升空間。
+瀑布提拉米蘇雖然視覺效果好，但常被評論為不像傳統提拉米蘇，蛋糕體偏乾、口味普通或偏甜，缺乏酒味。部分評論提到蛤蜊有沙或肉質偏乾癟，以及麵飯口感不佳（米飯全熟、麵心未煮透）。部分醬汁（如墨西哥莎莎、麻辣奶油）被認為過辣、偏油或缺乏層次，炸物如炸雞裹粉太厚，酥炸魷魚粉厚或無魷魚味。熱門時段環境非常吵雜，難以輕鬆交談；餐廳位處巷弄內，入口不明顯，有時周遭有異味，店內偶有油煙味、天花板壁癌或植物狀態不佳。
 
 ## 地點停車
-*   位於板橋凱撒大飯店 2 樓，鄰近板橋車站，交通非常便利。
-*   飯店內設有停車場，但有評論提醒停車位偶爾較難找，建議預留時間。
+餐廳位於西門町巷弄內的二樓，入口隱密不明顯，初次前往需仔細尋找。熱門時段人潮眾多，建議提前訂位，否則可能需現場等候。停車位不方便尋找，附近有付費室內或路邊停車場可利用，例如峨嵋停車場。
 
 ## 價位
-*   每人消費約 400 至 1,000 元不等，提供單點、雙人套餐及特定的「南洋吃到飽」模式。
-*   加入凱撒會員可享有「買四送一」等福利，整體被認為在飯店餐飲中性價比極高。
+平均每人消費約 $400-800，部分評論認為價格偏高，CP值中等。雙人套餐因份量足、選擇多，被認為CP值較高。餐廳會額外收取一成服務費，且每人有獨立計算的低消 300 元。
 
 ## 服務
-*   服務人員態度親切且熱情，上菜速度極快，補水與清理桌面非常勤快。
-*   對單身客人非常友善，且有點餐細心介紹等加分細節。
+店員普遍親切、友善、熱忱且耐心，補水速度快，並能主動關心客人需求。上菜速度在多數情況下快速，離峰時間用餐不會被催促。壽星可享免費提拉米蘇和照片列印服務，充滿儀式感。對於客訴（如餐點異物、送錯餐）處理積極且有同理心。
 
 ## 其他
-*   餐廳風格結合手工編藤與工業風燈飾，並設有哺乳室，屬於親子友善餐廳。
-*   自助區提供希爾頓同款咖啡機與多款南洋風飲料、甜點。
+餐廳是寵物友善空間，並會主動詢問鄰桌客人是否介意。提供兒童座椅和尿布臺，對親子客友善。用餐時間通常限時90-100分鐘，但離峰時段有彈性。店內提供免費Wi-Fi，並支援Line Pay、信用卡等多元支付方式。
 
 ## 和其他餐廳比較
-*   座位比一般 Buffet 寬敞，不會像其他餐廳需與鄰桌擠在一起。
-*   評論指出其骰子牛口味比「悅市集」更好，摩摩喳喳的味道也優於「饗泰多」。
+部分評論提到曾造訪其他分店（如新竹店、一中店），認為西門店口味差異不大，或西門店的松露麵味道較淡、收汁較乾。有評論直指「不如去吃薩利亞」，但也有人稱讚其為「台北最好吃的義大利麵」。
 
 ## 簡短總結
-這是一間適合家庭聚餐或節慶慶祝的高質感南洋料理餐廳，環境舒適且服務卓越。推薦給喜愛精緻泰、印、馬風味的讀者，但對極重口味或全素食者來說可能略顯不足。
+JAI 宅義大利麵（西門店）是適合朋友聚餐、家庭聚會的選擇，尤其推薦給喜歡拍照打卡、橘醬系列及份量大餐點的顧客。若追求傳統義式甜點口感或安靜用餐環境，可能需要調整期待；對於價格敏感的顧客也需考慮額外服務費。
 
 # English Summary
 
 ## Name
-Lotus Thai Cuisine, Caesar Park Hotel Banqiao (4.7 stars, 2,909 reviews).
+JAI Pasta & Risotto (Ximen Branch) (4.4 stars, 4,793 reviews)
 
 ## Recommendations / Strengths
-*   High-quality Southeast Asian dishes, with specific praise for the thick Moon/Money Shrimp Cakes, grilled seabass, and various curries (Rendang, Masala).
-*   The desserts are a major highlight; many reviewers consider their Momo Chacha the best they have ever had.
-*   The ambiance is described as an "urban oasis," featuring elegant greenery and spacious seating arrangements that ensure privacy.
-*   Hot dishes are made-to-order, ensuring high quality and optimal serving temperature.
+The orange sauce dishes are highly praised for their unique, rich yet non-greasy, sweet and sour balance, suitable for those who find cream sauces too heavy or red sauces too sour. Clam dishes are noted for generous portions and freshness, with free pasta/rice add-ons and upsized clam options. Fried chicken (Sichuan peppercorn crispy, Japanese caramel lemon) and crispy fried squid with spicy yogurt are also popular appetizers. The spacious, bright, and stylish "Instagrammable" environment, featuring a glasshouse design, is well-suited for photos and gatherings. Service is generally friendly, attentive, and efficient, including quick water refills and special birthday perks.
 
 ## Not Recommended / Weaknesses
-*   Inconsistency in seasoning was noted, with some dishes like Pad Kra Pao being overly salty and Laksa lacking depth.
-*   Certain fish preparations, such as the paper-wrapped fish, were reported to be dry.
-*   Limited options for vegetarians, as only simple set meals are available.
-*   Some seafood quality, particularly the shrimp in certain dishes, was noted as needing improvement.
+The "waterfall tiramisu," while visually appealing, is often criticized for not resembling traditional tiramisu, with a dry cake base, average taste, and lack of alcohol flavor or excessive sweetness. Inconsistent quality is reported in some dishes, such as sandy or dry clams, undercooked pasta/risotto, or an overly thick coating on some fried items. The restaurant can be very noisy during peak hours, making conversation challenging. The hidden alley location can be hard to find and sometimes has an unpleasant smell, with internal issues like oil odor, peeling paint on the ceiling, or withered plants.
 
 ## Location and Parking
-*   Conveniently located on the 2nd floor of the Caesar Park Hotel Banqiao, near the Banqiao railway station.
-*   On-site hotel parking is available, though some guests mentioned it can be difficult to find a spot during busy times.
+The restaurant is located on the second floor in a hidden alley in Ximending, with an inconspicuous entrance that can be difficult to locate. Reservations are strongly recommended, especially during popular hours, due to potential queues and full capacity. Parking is inconvenient, with paid indoor or street parking (e.g., Emei Parking Lot) available nearby.
 
 ## Price
-*   Average spending ranges from NT$400 to NT$1,000 per person, with options for à la carte, sets, and periodic "all-you-can-eat" deals.
-*   Members can enjoy "Buy 4 Get 1 Free" promotions, making it a high-value choice for hotel dining.
+The average spending per person is around NT$400-800, though some reviews suggest $200-400 or $600-800. Many find the prices slightly high, offering moderate value for money. Double sets are considered good value for their generous portions. A 10% service charge is added to the bill, and a minimum spend of NT$300 per person applies, calculated individually.
 
 ## Service
-*   Service is exceptional, characterized by extremely fast serving speeds and attentive staff who frequently refill water.
-*   The staff is noted for being professional, friendly to solo diners, and detailed in their menu introductions.
+The staff are consistently described as friendly, warm, patient, enthusiastic, and professional, providing quick water refills and prompt service. Dishes are served quickly in most cases. Birthday celebrations are enhanced with complimentary tiramisu and photo printing, creating a sense of occasion. Customer complaints, such as finding foreign objects in food, are handled actively and with empathy.
 
 ## Other
-*   The interior design combines rattan elements with light industrial aesthetics and includes family-friendly facilities like a nursing room.
-*   The self-serve area features high-end coffee machines and a variety of Southeast Asian drinks and sweets.
+The restaurant is pet-friendly, with staff proactively checking with neighboring tables regarding pet presence. It provides child seats and diaper changing facilities, making it a family-friendly destination. Dining time is typically limited to 90-100 minutes, though this is flexibly enforced during off-peak hours. Free Wi-Fi, Line Pay, and credit card payments are available.
 
 ## Comparison with Other Restaurants
-*   The seating is much more spacious and less crowded than typical buffet restaurants.
-*   Reviewers noted that the diced beef is superior to that of "Yue Market," and the Momo Chacha is better than the version served at "Siam More."
+Some reviewers who have visited other branches (e.g., Hsinchu, Taichung) noted taste consistency or that the Ximen branch's flavors were milder or drier. One reviewer suggested other Italian chains like Saizeriya for better value, while another enthusiastically called it "the best pasta in Taipei."
 
 ## Brief Summary
-This is an ideal venue for family gatherings or special occasions, offering a refined Southeast Asian fusion dining experience with excellent service. It is highly recommended for those seeking a comfortable, upscale atmosphere, though it may not cater as well to strict vegetarians or those seeking traditional street-food intensity.
+JAI Pasta & Risotto (Ximen Branch) is well-suited for friends and families (including children and pets) who appreciate a lively, visually appealing setting and generous portions, particularly their signature orange sauce and fried chicken. However, it may not be ideal for those seeking a traditional Italian dessert experience, a quiet dining environment, or who are sensitive to pricing and potential inconsistencies in some dish qualities.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-06-25T01:17:35.618Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-2.5-flash` at 2026-07-02T08:33:33.156Z.
