@@ -1,60 +1,60 @@
 # 中文總結
 
 ## 名稱
-Soluna - All Day Dining 饗樂全日餐廳 (4.1顆星、1,639篇評論) 位於台中日月千禧酒店3樓。
+金園中餐廳 (4.5 顆星、1,148 評論)。位於台中金典酒店15樓，主要提供粵菜及港點。
 
 ## 推薦/優點
-服務態度親切、收盤及補菜迅速，用餐環境舒適、雅緻且寬敞。甜點品質優異，布丁、可麗露、生巧克力常受好評。現沖牛肉湯、爐烤牛排、煙燻鮭魚、松葉蟹腳、生魚片等特定餐點獲得許多讚賞。提供免費停車與多樣化酒飲。
+環境氣派、舒適，位於15樓，窗景和景色優美，適合聚餐。吃到飽方案性價比高，被認為是台中屬一屬二的港點吃到飽選擇。部分餐點受好評，如醉蝦、凍檸茶、杏仁豆腐、鳳梨蝦球、腐皮捲、干炒牛河、和牛牛頰肉、小豬鹹水餃等。部分評論提到經理級服務人員態度熱忱、專業且親切。
 
 ## 不推薦/缺點
-菜色選擇性相對較少，部分評論認為品項不如其他大型自助餐豐富。食材品質偶有不穩，例如蝦子不甜、松葉蟹腳過鹹、部分肉類柴或有筋、天使紅蝦或三點蟹出現腥味。近年有評論提及菜色種類縮水，出現較平價的食材充數。對比價格，部分顧客認為CP值不高。
+餐點品質不穩定且評價兩極，有許多負評指出菜色普通、不夠精緻，甚至油膩、過鹹或過甜。部分菜品被批評為踩雷，如片皮鴨肉少皮涼、部分點心口感不佳或味道詭異。服務方面，上菜速度慢、漏單、服務人員不夠主動，尤其在節慶期間更明顯。吃到飽方案有剩食罰款（每盤299元），且茶資需額外計費。
 
 ## 地點停車
-位於日月千禧酒店3樓，建議提前訂位。提供免費地下室停車場（B3-B6），設有充電車位。部分評論反映停車場入口標示不清楚，且機車停車管理混亂、引導人員態度不佳。
+餐廳位於金典酒店15樓，視野開闊。停車方便，有很多停車位，提供免費或付費室內停車場，但有評論提到停車場指示不清晰或車位偏小。建議提前訂位。
 
 ## 價位
-平均每人消費約 $1,000-1,800，晚餐約 $1,188+10% 服務費。有壽星88折、長者75折及美國運通卡半價等優惠活動。許多顧客認為若無優惠，原價偏高且CP值不符期待。
+吃到飽方案午餐約990+10%元，晚餐約1090+10%元（兩人以上用餐）。單點有每人880元的低消，且部分大菜單價偏高。部分評論認為吃到飽方案CP值高，尤其搭配信用卡優惠（如AE卡兩人五折）時更划算，但單點則普遍覺得偏貴。
 
 ## 服務
-服務人員態度普遍親切、專業、有禮且反應迅速，如主動協助取餐或補充甜點。收盤速度非常快，桌面維持整潔。有評論特別提到停車場引導人員的熱忱與飯店電梯的舒適氛圍。極少數評論提及收盤過於積極，未吃完的餐點即被收走。
+服務評價差異大。有顧客稱讚服務人員親切、迅速、態度熱忱，尤其林經理的服務更是備受肯定。但也有不少抱怨服務速度慢、人手不足、需主動尋找服務生，且有漏單或上錯菜的情況。部分五星好評被懷疑是因打卡送小菜而給。
 
 ## 其他
-用餐時間通常充裕，午餐可達三小時，適合悠閒用餐。餐廳提供多種酒類飲品。設施對長輩不友善，如大廳座椅無靠背、餐廳無等待區。有提到壽星可獲贈蛋糕。
+餐廳提供當月壽星小蛋糕。許多人是為了「粵吃粵飽」的吃到飽活動而來。茶資需另外計費（約50-55元/人），沒有免費飲品。有評論提到菜色份量可選大小，但部分熱炒類即使點2-3人份仍份量大。
 
 ## 和其他餐廳比較
-有評論認為餐點精緻度優於金典柏麗廳，且服務勝過饗食天堂和漢來海港。部分人覺得比裕元溫X咖啡廳更好。然而，也有評論指出以同價位或半價的台中其他餐廳，其餐點選擇性可能更佳。
+港式吃到飽形式在台中算屬一屬二優質。價位高於台中其他兩家港點吃到飽（約700多元/人）。凍檸茶的味道被描述為台味，像一中街的紅茶冰等級。
 
 ## 簡短總結
-饗樂全日餐廳適合追求精緻餐點、優質服務與舒適優雅用餐環境的顧客。特別推薦給喜愛甜點、牛肉湯和爐烤牛排的人。然而，若追求菜色豐富度或對海鮮品質有極高要求，且未享優惠，則可能覺得價格偏高、CP值不佳。
+金園中餐廳提供寬敞氣派的用餐環境與高樓美景，特別適合多人聚餐或特殊節日。其港點吃到飽方案受到部分顧客推薦，但餐點與服務品質存在明顯不穩定性，部分菜品被指過於油膩或口味不佳，且服務速度有待加強。適合追求高樓景觀和吃到飽體驗，並對特定推薦菜色有興趣的顧客，但需留意可能踩雷的餐點與服務情況。
 
 # English Summary
 
 ## Name
-Soluna - All Day Dining (4.1 stars, 1,639 reviews) is located on the 3rd floor of Millennium Hotel Taichung.
+Jinyuan Chinese Restaurant (4.5 stars, 1,148 reviews). Located on the 15th floor of Splendor Hotel Taichung, primarily offering Cantonese cuisine and dim sum.
 
 ## Recommendations / Strengths
-The service attitude is friendly, and dish clearing and replenishment are swift. The dining environment is comfortable, elegant, and spacious. Desserts are of excellent quality, with pudding, canelé, raw chocolate, and crème brûlée frequently praised. Specific dishes like freshly prepared beef soup, roasted steak, smoked salmon, snow crab legs, and sashimi receive high acclaim. Free parking and a variety of alcoholic beverages are provided.
+The environment is grand, comfortable, and offers excellent window views and scenery, suitable for gatherings. The all-you-can-eat option is considered high value for money, ranking among the top dim sum buffets in Taichung. Some dishes are highly praised, such as drunken shrimp, frozen lemon tea, almond tofu, pineapple shrimp balls, bean curd skin rolls, stir-fried beef cubes with scallion, stir-fried beef ho fun, Wagyu beef cheek, and savory dumplings. Some reviews highlighted the warm, professional, and friendly service from managers.
 
 ## Not Recommended / Weaknesses
-The variety of dishes is relatively limited, with some reviews stating it's not as extensive as other large buffets. Food quality can be inconsistent; examples include shrimp lacking sweetness, overly salty snow crab legs, some meats being tough or sinewy, and occasional reports of unfresh or small angel prawns or three-spot crabs. Recent reviews mention a reduction in dish types, with some cheaper ingredients used to fill offerings. Some customers feel the value for money is low compared to the price.
+Food quality is inconsistent and polarizing, with many negative reviews citing dishes as ordinary, not refined, or excessively oily, salty, or sweet. Several dishes were considered disappointing, such as roasted duck with too little meat and cold skin, or some dim sum with poor texture or strange flavors. Service issues include slow serving, missed orders, and un proactive staff, especially during festive seasons. The all-you-can-eat plan has a penalty for leftovers (NT$299 per dish), and tea incurs an extra charge.
 
 ## Location and Parking
-Located on the 3rd floor of Millennium Hotel Taichung, reservations are recommended. Free underground parking (B3-B6) with EV charging spots is available. Some reviews point out unclear parking entrance signs and messy motorcycle parking management with unhelpful attendants.
+The restaurant is located on the 15th floor of Splendor Hotel, offering expansive views. Parking is convenient with ample spaces, including free or paid indoor options, though some mentioned unclear signs or small parking spots. Reservations are recommended.
 
 ## Price
-The average cost per person is around $1,000-1,800, with dinner being approximately $1,188 plus a 10% service charge. Discounts are available for birthdays (12% off), seniors (25% off), and specific credit card offers (e.g., American Express 50% off). Many customers feel that without discounts, the original price is too high, and the value for money is unsatisfactory.
+All-you-can-eat lunch costs approximately NT$990+10%, and dinner is around NT$1090+10% (for two or more people). A la carte dining has a minimum spend of NT$880 per person, and some main dishes are priced high. Some reviews find the all-you-can-eat plan offers good value, especially with credit card discounts, but a la carte is generally perceived as expensive.
 
 ## Service
-Service staff are generally friendly, professional, polite, and quick to respond, such as proactively helping with food retrieval or dessert replenishment. Plate clearing is very prompt, keeping tables clean. Some reviews specifically highlight the enthusiasm of parking attendants and the comfortable ambiance of the hotel elevators. A few rare comments mention overly aggressive plate clearing, where unfinished dishes were removed.
+Service reviews are mixed. Some customers praised staff for being friendly, prompt, and enthusiastic, with particular commendation for Manager Lin. However, many complaints noted slow service, understaffing, needing to actively seek out staff, and instances of missed or incorrect orders. Some five-star reviews are suspected to be influenced by check-in promotions for side dishes.
 
 ## Other
-Dining duration is usually generous, up to three hours for lunch, allowing for a relaxed meal. The restaurant offers unlimited red wine, white wine, and draft beer. Facilities are not elder-friendly, such as backless lobby chairs and no waiting area in the restaurant. Birthday guests receive a complimentary cake.
+The restaurant offers a complimentary small cake for birthday celebrants of the month. Many visitors come specifically for the "Cantonese All-You-Can-Eat" promotion. Tea incurs an additional charge (approx. NT$50-55 per person), and no free beverages are provided. Some noted that dish portions can be adjusted, but some stir-fried items are still large even when ordered for 2-3 people.
 
 ## Comparison with Other Restaurants
-Some reviews claim the food quality is more refined than Gold Plaza Hotel's buffet and that the service surpasses that of Eatogether and Hi-Lai Harbour. Some preferred it over Yuanchun Hot Spring Hotel's cafe. However, other reviews suggest that at similar price points or even half the price, other restaurants in Taichung offer better variety.
+The all-you-can-eat dim sum format is considered one of the best in Taichung. The pricing is higher than two other dim sum buffets in Taichung (around NT$700+ per person). The frozen lemon tea's taste was described as Taiwanese-style, similar to black tea ice from Yizhong Street.
 
 ## Brief Summary
-Soluna - All Day Dining is suitable for customers seeking refined dishes, excellent service, and a comfortable, elegant dining atmosphere. It is especially recommended for those who enjoy desserts, beef soup, and roasted beef. However, for guests prioritizing extensive variety or consistent high-quality seafood, and without discounts, the price may be considered high with unsatisfactory value for money.
+Jinyuan Chinese Restaurant offers a grand dining environment with stunning high-rise views, ideal for group gatherings or special occasions. While its all-you-can-eat dim sum option is recommended by some, food and service quality can be inconsistent, with dishes often described as oily or lacking flavor, and service speed needing improvement. It's suitable for those prioritizing scenic views and a buffet experience with specific recommended dishes, but be aware of potential inconsistencies in food and service.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-2.5-flash` at 2026-07-24T03:10:39.583Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-2.5-flash` at 2026-07-24T03:16:19.930Z.
