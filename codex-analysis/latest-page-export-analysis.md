@@ -1,60 +1,60 @@
 # 中文總結
 
 ## 名稱
-JAI 宅義大利麵（西門店）（4.4 顆星、4,793 篇評論）
+Soluna - All Day Dining 饗樂全日餐廳 (4.1顆星、1,639篇評論) 位於台中日月千禧酒店3樓。
 
 ## 推薦/優點
-橘醬系列餐點受到廣泛好評，味道特別、濃郁不膩、酸甜平衡，尤其適合不喜歡太膩或太酸口味的人。蛤蜊料理份量多且新鮮飽滿，可免費加麵/飯，雙人套餐份量足夠，讓人吃得很飽。青花椒脆皮炸雞、日式焦糖檸檬炸雞和酥炸魷魚佐辣味優格等炸物也常被稱讚酥脆美味。餐廳環境寬敞明亮舒適，裝潢有特色，適合拍照打卡與朋友聚餐。
+服務態度親切、收盤及補菜迅速，用餐環境舒適、雅緻且寬敞。甜點品質優異，布丁、可麗露、生巧克力常受好評。現沖牛肉湯、爐烤牛排、煙燻鮭魚、松葉蟹腳、生魚片等特定餐點獲得許多讚賞。提供免費停車與多樣化酒飲。
 
 ## 不推薦/缺點
-瀑布提拉米蘇雖然視覺效果好，但常被評論為不像傳統提拉米蘇，蛋糕體偏乾、口味普通或偏甜，缺乏酒味。部分評論提到蛤蜊有沙或肉質偏乾癟，以及麵飯口感不佳（米飯全熟、麵心未煮透）。部分醬汁（如墨西哥莎莎、麻辣奶油）被認為過辣、偏油或缺乏層次，炸物如炸雞裹粉太厚，酥炸魷魚粉厚或無魷魚味。熱門時段環境非常吵雜，難以輕鬆交談；餐廳位處巷弄內，入口不明顯，有時周遭有異味，店內偶有油煙味、天花板壁癌或植物狀態不佳。
+菜色選擇性相對較少，部分評論認為品項不如其他大型自助餐豐富。食材品質偶有不穩，例如蝦子不甜、松葉蟹腳過鹹、部分肉類柴或有筋、天使紅蝦或三點蟹出現腥味。近年有評論提及菜色種類縮水，出現較平價的食材充數。對比價格，部分顧客認為CP值不高。
 
 ## 地點停車
-餐廳位於西門町巷弄內的二樓，入口隱密不明顯，初次前往需仔細尋找。熱門時段人潮眾多，建議提前訂位，否則可能需現場等候。停車位不方便尋找，附近有付費室內或路邊停車場可利用，例如峨嵋停車場。
+位於日月千禧酒店3樓，建議提前訂位。提供免費地下室停車場（B3-B6），設有充電車位。部分評論反映停車場入口標示不清楚，且機車停車管理混亂、引導人員態度不佳。
 
 ## 價位
-平均每人消費約 $400-800，部分評論認為價格偏高，CP值中等。雙人套餐因份量足、選擇多，被認為CP值較高。餐廳會額外收取一成服務費，且每人有獨立計算的低消 300 元。
+平均每人消費約 $1,000-1,800，晚餐約 $1,188+10% 服務費。有壽星88折、長者75折及美國運通卡半價等優惠活動。許多顧客認為若無優惠，原價偏高且CP值不符期待。
 
 ## 服務
-店員普遍親切、友善、熱忱且耐心，補水速度快，並能主動關心客人需求。上菜速度在多數情況下快速，離峰時間用餐不會被催促。壽星可享免費提拉米蘇和照片列印服務，充滿儀式感。對於客訴（如餐點異物、送錯餐）處理積極且有同理心。
+服務人員態度普遍親切、專業、有禮且反應迅速，如主動協助取餐或補充甜點。收盤速度非常快，桌面維持整潔。有評論特別提到停車場引導人員的熱忱與飯店電梯的舒適氛圍。極少數評論提及收盤過於積極，未吃完的餐點即被收走。
 
 ## 其他
-餐廳是寵物友善空間，並會主動詢問鄰桌客人是否介意。提供兒童座椅和尿布臺，對親子客友善。用餐時間通常限時90-100分鐘，但離峰時段有彈性。店內提供免費Wi-Fi，並支援Line Pay、信用卡等多元支付方式。
+用餐時間通常充裕，午餐可達三小時，適合悠閒用餐。餐廳提供多種酒類飲品。設施對長輩不友善，如大廳座椅無靠背、餐廳無等待區。有提到壽星可獲贈蛋糕。
 
 ## 和其他餐廳比較
-部分評論提到曾造訪其他分店（如新竹店、一中店），認為西門店口味差異不大，或西門店的松露麵味道較淡、收汁較乾。有評論直指「不如去吃薩利亞」，但也有人稱讚其為「台北最好吃的義大利麵」。
+有評論認為餐點精緻度優於金典柏麗廳，且服務勝過饗食天堂和漢來海港。部分人覺得比裕元溫X咖啡廳更好。然而，也有評論指出以同價位或半價的台中其他餐廳，其餐點選擇性可能更佳。
 
 ## 簡短總結
-JAI 宅義大利麵（西門店）是適合朋友聚餐、家庭聚會的選擇，尤其推薦給喜歡拍照打卡、橘醬系列及份量大餐點的顧客。若追求傳統義式甜點口感或安靜用餐環境，可能需要調整期待；對於價格敏感的顧客也需考慮額外服務費。
+饗樂全日餐廳適合追求精緻餐點、優質服務與舒適優雅用餐環境的顧客。特別推薦給喜愛甜點、牛肉湯和爐烤牛排的人。然而，若追求菜色豐富度或對海鮮品質有極高要求，且未享優惠，則可能覺得價格偏高、CP值不佳。
 
 # English Summary
 
 ## Name
-JAI Pasta & Risotto (Ximen Branch) (4.4 stars, 4,793 reviews)
+Soluna - All Day Dining (4.1 stars, 1,639 reviews) is located on the 3rd floor of Millennium Hotel Taichung.
 
 ## Recommendations / Strengths
-The orange sauce dishes are highly praised for their unique, rich yet non-greasy, sweet and sour balance, suitable for those who find cream sauces too heavy or red sauces too sour. Clam dishes are noted for generous portions and freshness, with free pasta/rice add-ons and upsized clam options. Fried chicken (Sichuan peppercorn crispy, Japanese caramel lemon) and crispy fried squid with spicy yogurt are also popular appetizers. The spacious, bright, and stylish "Instagrammable" environment, featuring a glasshouse design, is well-suited for photos and gatherings. Service is generally friendly, attentive, and efficient, including quick water refills and special birthday perks.
+The service attitude is friendly, and dish clearing and replenishment are swift. The dining environment is comfortable, elegant, and spacious. Desserts are of excellent quality, with pudding, canelé, raw chocolate, and crème brûlée frequently praised. Specific dishes like freshly prepared beef soup, roasted steak, smoked salmon, snow crab legs, and sashimi receive high acclaim. Free parking and a variety of alcoholic beverages are provided.
 
 ## Not Recommended / Weaknesses
-The "waterfall tiramisu," while visually appealing, is often criticized for not resembling traditional tiramisu, with a dry cake base, average taste, and lack of alcohol flavor or excessive sweetness. Inconsistent quality is reported in some dishes, such as sandy or dry clams, undercooked pasta/risotto, or an overly thick coating on some fried items. The restaurant can be very noisy during peak hours, making conversation challenging. The hidden alley location can be hard to find and sometimes has an unpleasant smell, with internal issues like oil odor, peeling paint on the ceiling, or withered plants.
+The variety of dishes is relatively limited, with some reviews stating it's not as extensive as other large buffets. Food quality can be inconsistent; examples include shrimp lacking sweetness, overly salty snow crab legs, some meats being tough or sinewy, and occasional reports of unfresh or small angel prawns or three-spot crabs. Recent reviews mention a reduction in dish types, with some cheaper ingredients used to fill offerings. Some customers feel the value for money is low compared to the price.
 
 ## Location and Parking
-The restaurant is located on the second floor in a hidden alley in Ximending, with an inconspicuous entrance that can be difficult to locate. Reservations are strongly recommended, especially during popular hours, due to potential queues and full capacity. Parking is inconvenient, with paid indoor or street parking (e.g., Emei Parking Lot) available nearby.
+Located on the 3rd floor of Millennium Hotel Taichung, reservations are recommended. Free underground parking (B3-B6) with EV charging spots is available. Some reviews point out unclear parking entrance signs and messy motorcycle parking management with unhelpful attendants.
 
 ## Price
-The average spending per person is around NT$400-800, though some reviews suggest $200-400 or $600-800. Many find the prices slightly high, offering moderate value for money. Double sets are considered good value for their generous portions. A 10% service charge is added to the bill, and a minimum spend of NT$300 per person applies, calculated individually.
+The average cost per person is around $1,000-1,800, with dinner being approximately $1,188 plus a 10% service charge. Discounts are available for birthdays (12% off), seniors (25% off), and specific credit card offers (e.g., American Express 50% off). Many customers feel that without discounts, the original price is too high, and the value for money is unsatisfactory.
 
 ## Service
-The staff are consistently described as friendly, warm, patient, enthusiastic, and professional, providing quick water refills and prompt service. Dishes are served quickly in most cases. Birthday celebrations are enhanced with complimentary tiramisu and photo printing, creating a sense of occasion. Customer complaints, such as finding foreign objects in food, are handled actively and with empathy.
+Service staff are generally friendly, professional, polite, and quick to respond, such as proactively helping with food retrieval or dessert replenishment. Plate clearing is very prompt, keeping tables clean. Some reviews specifically highlight the enthusiasm of parking attendants and the comfortable ambiance of the hotel elevators. A few rare comments mention overly aggressive plate clearing, where unfinished dishes were removed.
 
 ## Other
-The restaurant is pet-friendly, with staff proactively checking with neighboring tables regarding pet presence. It provides child seats and diaper changing facilities, making it a family-friendly destination. Dining time is typically limited to 90-100 minutes, though this is flexibly enforced during off-peak hours. Free Wi-Fi, Line Pay, and credit card payments are available.
+Dining duration is usually generous, up to three hours for lunch, allowing for a relaxed meal. The restaurant offers unlimited red wine, white wine, and draft beer. Facilities are not elder-friendly, such as backless lobby chairs and no waiting area in the restaurant. Birthday guests receive a complimentary cake.
 
 ## Comparison with Other Restaurants
-Some reviewers who have visited other branches (e.g., Hsinchu, Taichung) noted taste consistency or that the Ximen branch's flavors were milder or drier. One reviewer suggested other Italian chains like Saizeriya for better value, while another enthusiastically called it "the best pasta in Taipei."
+Some reviews claim the food quality is more refined than Gold Plaza Hotel's buffet and that the service surpasses that of Eatogether and Hi-Lai Harbour. Some preferred it over Yuanchun Hot Spring Hotel's cafe. However, other reviews suggest that at similar price points or even half the price, other restaurants in Taichung offer better variety.
 
 ## Brief Summary
-JAI Pasta & Risotto (Ximen Branch) is well-suited for friends and families (including children and pets) who appreciate a lively, visually appealing setting and generous portions, particularly their signature orange sauce and fried chicken. However, it may not be ideal for those seeking a traditional Italian dessert experience, a quiet dining environment, or who are sensitive to pricing and potential inconsistencies in some dish qualities.
+Soluna - All Day Dining is suitable for customers seeking refined dishes, excellent service, and a comfortable, elegant dining atmosphere. It is especially recommended for those who enjoy desserts, beef soup, and roasted beef. However, for guests prioritizing extensive variety or consistent high-quality seafood, and without discounts, the price may be considered high with unsatisfactory value for money.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-2.5-flash` at 2026-07-02T08:33:33.156Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-2.5-flash` at 2026-07-24T03:10:39.583Z.
