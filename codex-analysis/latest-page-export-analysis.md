@@ -1,92 +1,82 @@
 # 中文總結
 
 ## 名稱
-iFG遠雄廣場（4.2 顆星、19,393 則評論）
+玩聚窩 (新北市玩具銀行旗艦店)（4.5 顆星、675 篇評論）
 
 ## 推薦/優點
-* 汐止地區唯一的大型商場，空間寬敞、走道寬大，逛起來不擁擠且放鬆。
-* 美食選擇豐富，包含 B1 大規模美食街與眾多知名餐廳（如壽司郎、陶板屋、涮乃葉）。
-* 親子設施完善，擁有多個大型室內遊樂場（如湯姆熊、奇幻島），是極佳的親子放電場所。
-* 品牌多元，整合了家樂福、UNIQLO、無印良品、宜得利等生活機能品牌。
+- 免費入場且場地寬敞乾淨，擁有大量木質玩具與特色木頭球池（如恐龍木球池）。
+- 定期舉辦說故事活動、手作 DIY 與引導遊戲，志工與老師態度親切專業。
+- 玩具種類豐富，涵蓋車車、家家酒、益智桌遊與物理拆解類，是極佳的雨天備案。
 
 ## 不推薦/缺點
-* 廁所衛生狀況欠佳，多位評論者反應異味嚴重、有尿垢甚至有蟑螂。
-* 動線規劃混亂，被形容像迷宮，且電梯與廁所標示不夠直覺。
-* 樓面常有推銷人員（化妝品、銀行卡、問卷）強力攔阻，造成逛街壓力。
-* 假日人潮過多時，空調通風不足，環境顯得悶熱。
+- 假日人潮過多且缺乏分齡管制，大小孩橫衝直撞對嬰幼兒（學步前）具危險性。
+- 部分玩具因二手捐贈或使用頻繁，有缺件、沒電、毀損或被亂畫的狀況。
+- 哺乳室隱私性不足（僅布簾遮擋）且環境人多時會顯得悶熱、空氣流通不佳。
 
 ## 地點停車
-* 與汐科火車站相連，並提供往返南港、汐止車站的接駁車，交通選擇多樣。
-* 設有龐大的地下停車場，雖然位子多，但假日尖峰時段仍需長時間排隊進場。
-* 汐科站出口通往商場的路徑對嬰兒車不友善，部分路段需扛車走階梯。
+- 地點鄰近板橋大遠百與板橋車站，入口位於中信銀行旁巷內，需搭電梯或樓梯至 3 樓。
+- 停車可利用鄰近的市民廣場停車場，步行約 10 分鐘內可抵達。
+- 入口指標較不明顯，初次到訪者可能需要詢問警衛或留意巷內引導。
 
 ## 價位
-* 美食街單人餐點約在 150 至 300 元之間，CP 值尚可。
-* 汽車停車費每小時 60 元，可透過遠雄會員或消費滿額折抵。
-* 評論指出停車折抵門檻近期有提高趨勢，部分設施（如遊樂園）無法折抵停車費。
+- 全程免費，包含入館遊玩與部分課程活動。
+- 若忘記帶襪子，現場販售大人或小孩襪子，一雙為 50 元。
 
 ## 服務
-* 服務態度評價兩極，有接駁車司機與櫃位人員獲得熱心讚許，也有服務台人員被指態度冷淡。
-* 針對客訴（如廁所清潔或停車問題），業主通常會留下罐頭回覆，但實際改善速度遭質疑。
-* 部份櫃位（如運動品牌、快閃店）曾出現現場無人服務的情況。
+- 工作人員與志工普遍受好評，親切且會關注幼童安全與現場狀況。
+- 入場規定較為嚴格，如所有大人小孩皆需穿襪子，並會確實執行進場消毒。
 
 ## 其他
-* 屬於寵物友善商場，提供寵物不落地即可進入的規範。
-* 3 樓設有大型家具設計中心，適合有居家裝修需求的人士。
-* 哺乳室設施雖然便利，但有清潔維護不周的問題。
+- 採預約制，每週二晚上 8 點在官方 FB 開放當週預約，假日場次通常很快額滿。
+- 置物櫃為開放式且無鎖，貴重物品需隨身攜帶，場內禁止飲食。
+- 進場需穿著襪子，嬰兒被抱著或背著也必須穿襪，建議家長先行準備。
 
 ## 和其他餐廳比較
-* 評論提到停車費較宏匯廣場（每小時 20 元）昂貴。
-* 有會員反映來店禮質感與設計不如南港 LaLaport。
-* 整體規劃被認為類似中和環球或高雄夢時代，屬於狹長型商場。
+- 與台北市親子館相比，評論認為此處對大齡兒童限制較寬，但缺乏 0-2 歲專屬的分齡活動區。
+- 遊玩品質與控管被認為略遜於台北市政府轄下的親子館，特別是人數與年齡分流方面。
 
 ## 簡短總結
-這是汐止居民採買生活用品、全家聚餐與帶小孩放電的首選日常商場。空間寬廣舒適，適合不追求頂級時尚、想輕鬆逛街的族群，但需忍受較差的廁所衛生與推銷干擾。
+玩聚窩是板橋極佳的免費親子活動空間，特別適合 3 歲以上、喜愛木質玩具的小朋友放電。然而，因假日混齡嚴重且人滿為患，較不建議帶嬰幼兒在熱門時段前往。
 
 # English Summary
 
 ## Name
-iFG Square (4.2 stars, 19,393 reviews)
+Wanjuwo (New Taipei Toy Bank Flagship) (4.5 stars, 675 reviews)
 
 ## Recommendations / Strengths
-* It is the only large-scale shopping center in Xizhi, featuring exceptionally wide aisles and a spacious, relaxing atmosphere.
-* The B1 food court and various independent restaurants (such as Sushiro and Shabu-yo) offer a vast array of dining options.
-* Excellent for families with children, housing multiple indoor playgrounds like Tom's World and Magic Island.
-* A one-stop-shop destination that integrates major retailers like Carrefour, UNIQLO, MUJI, and Nitori.
+- Free admission to a clean, spacious environment with a wide variety of wooden toys and a unique wooden ball pit.
+- Features regular storytelling sessions, DIY workshops, and guided activities led by friendly volunteers.
+- Excellent indoor alternative for rainy days with diverse toy categories, including cars, role-playing sets, and puzzles.
 
 ## Not Recommended / Weaknesses
-* Restroom hygiene is a frequent complaint, with reports of strong odors, stains, and even cockroaches.
-* The mall layout is criticized for being confusing and maze-like, with poorly labeled elevators and facilities.
-* Aggressive sales pitches from cosmetic and banking booths create a high-pressure environment for shoppers.
-* Ventilation can be inadequate during crowded weekends, making the indoor environment feel stuffy.
+- Extremely crowded on weekends with no age segregation, posing safety risks for infants due to older children running around.
+- Some toys are worn out, missing pieces, or lack batteries as they are donated or heavily used.
+- The breastfeeding room offers poor privacy (curtain only), and the space can feel stuffy when at maximum capacity.
 
 ## Location and Parking
-* Conveniently connected to Xike Train Station and offers shuttle buses to Nangang and Xizhi stations.
-* Although there is an extensive underground parking lot, long queues are common during holidays and peak hours.
-* The path from Xike Station is not stroller-friendly as some sections require carrying the stroller up stairs.
+- Located near Banqiao Megacity and Banqiao Station; the entrance is in an alley next to CTBC Bank, leading to the 3rd floor.
+- Parking is available at the nearby Civil Square parking lot, within a 10-minute walk.
+- The entrance signs are not very prominent; first-time visitors may need to ask security or look closely for directions.
 
 ## Price
-* Food court meals generally cost between NT$150 and NT$300, offering reasonable value for money.
-* Parking is NT$60 per hour, which can be offset by mall membership or spending thresholds.
-* Some reviewers noted that parking discount thresholds have increased, and certain facilities like play areas do not count toward discounts.
+- Completely free for both admission and most scheduled activities.
+- If you forget to bring socks, they are available for purchase on-site for NT$50 per pair.
 
 ## Service
-* Service quality is inconsistent; some praise the helpful shuttle drivers, while others find the information desk staff dismissive.
-* Management often provides standard template responses to complaints, leading to concerns about actual improvements in maintenance.
-* Some visitors reported unmanned counters at certain sports brands or pop-up stores.
+- Staff and volunteers are generally praised for being kind, professional, and attentive to children's safety.
+- Strict enforcement of entry rules, such as mandatory socks for all and mandatory hand sanitization upon arrival.
 
 ## Other
-* The mall is pet-friendly, provided that pets do not touch the floor (strollers are allowed).
-* The 3rd floor features a dedicated furniture design center for home improvement needs.
-* Nursing rooms are available but sometimes suffer from a lack of proper cleaning and maintenance.
+- Operates on a reservation system; slots open every Tuesday at 8 PM on their Facebook page and fill up quickly for weekends.
+- Open storage cubbies are provided without locks; valuables should be kept with you, and food/drinks are prohibited inside.
+- All visitors, including infants being carried, must wear socks to enter.
 
 ## Comparison with Other Restaurants
-* Reviewers noted that parking is significantly more expensive than at Honghui Square (NT$20/hr).
-* Some loyal members feel that membership gifts are lower in quality compared to those at Nangang LaLaport.
-* The layout and scale are frequently compared to Global Mall Zhonghe or Dream Mall Kaohsiung.
+- Compared to Taipei City Play Centers, reviewers noted that this venue is more welcoming to older children but lacks dedicated zones for children under 2.
+- Some feel the crowd and age management are less organized than those of government-run play centers in Taipei City.
 
 ## Brief Summary
-iFG Square is a primary weekend destination for Xizhi residents for grocery shopping, casual dining, and family activities. It is ideal for those seeking a spacious environment without the pressure of high-end fashion, though issues with restroom cleanliness and sales harassment persist.
+Wanjuwo is an excellent free play space in Banqiao, especially suitable for children aged 3 and up who enjoy wooden toys. However, it is not recommended for infants during peak hours due to the lack of age segregation and heavy weekend crowds.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-08-22T23:04:06.341Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3-flash-preview` at 2026-09-05T23:25:05.591Z.
