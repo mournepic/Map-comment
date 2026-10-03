@@ -1,0 +1,62 @@
+name: Push reanalyzed map report to LINE
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/push-reanalyzed-map-export.yml
+permissions:
+  contents: read
+jobs:
+  push-analysis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      OUTPUT_PATH: codex-analysis/latest-page-export-analysis.md
+      EXPECTED_ANALYSIS_BLOB: 39b1b990615a0115b1b93ed67be829881c6514ae
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Verify the reanalyzed report
+        run: |
+          test "$(git hash-object "$OUTPUT_PATH")" = "$EXPECTED_ANALYSIS_BLOB"
+
+      - name: Send analysis to LINE
+        env:
+          MAP_ANALYSIS_WEBHOOK_URL: ${{ secrets.MAP_ANALYSIS_WEBHOOK_URL }}
+          MAP_ANALYSIS_PUSH_TOKEN: ${{ secrets.MAP_ANALYSIS_PUSH_TOKEN }}
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
+
+          const webhookUrl = process.env.MAP_ANALYSIS_WEBHOOK_URL;
+          const pushToken = process.env.MAP_ANALYSIS_PUSH_TOKEN;
+          if (!webhookUrl || !pushToken) {
+            throw new Error("Missing configured LINE webhook or push token.");
+          }
+
+          const text = fs.readFileSync(process.env.OUTPUT_PATH, "utf8");
+          const repo = process.env.GITHUB_REPOSITORY;
+          const branch = process.env.GITHUB_REF_NAME;
+          const outputPath = process.env.OUTPUT_PATH;
+          const url = `https://github.com/${repo}/blob/${branch}/${outputPath}`;
+
+          const response = await fetch(webhookUrl, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Authorization": `Bearer ${pushToken}`,
+            },
+            body: JSON.stringify({
+              title: "Google Maps 評論分析",
+              text,
+              url,
+            }),
+          });
+
+          if (!response.ok) {
+            throw new Error(`LINE push failed: ${response.status} ${await response.text()}`);
+          }
+          NODE
+
