@@ -1,0 +1,187 @@
+name: Reanalyze latest map export
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/reanalyze-map-export.yml
+
+permissions:
+  contents: write
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    env:
+      INPUT_PATH: codex-analysis/latest-page-export.txt
+      OUTPUT_PATH: codex-analysis/latest-page-export-analysis.md
+      GEMINI_MODELS: gemini-3.8-flash,gemini-3.7-flash,gemini-3.6-flash,gemini-3.5-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync latest branch
+        run: |
+          git pull --rebase origin "$GITHUB_REF_NAME"
+
+      - name: Summarize with Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          node --input-type=commonjs <<'NODE'
+          (async () => {
+          const fs = require("fs");
+          const path = require("path");
+
+          const apiKey = process.env.GEMINI_API_KEY;
+          if (!apiKey) throw new Error("Missing GEMINI_API_KEY repository secret.");
+
+          const inputPath = process.env.INPUT_PATH;
+          const outputPath = process.env.OUTPUT_PATH;
+          const models = (process.env.GEMINI_MODELS || process.env.GEMINI_MODEL || "gemini-3.8-flash,gemini-3.7-flash,gemini-3.6-flash,gemini-3.5-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite")
+            .split(",")
+            .map((model) => model.trim())
+            .filter(Boolean);
+          const sourceText = fs.readFileSync(inputPath, "utf8").slice(0, 180000);
+          const prompt = [
+            "請分析以下 Google Maps 或網頁評論匯出內容。",
+            "請輸出精簡 Markdown 報告，順序必須是：中文總結 → 英文總結。",
+            "",
+            "格式規則：",
+            "- 先輸出 `# 中文總結`，再輸出 `# English Summary`。",
+            "- 中文總結使用繁體中文；英文總結使用自然、清楚的英文。",
+            "- 兩個版本都必須使用相同的九個二級標題，依序輸出。",
+            "- 每個段落用 2 到 5 個短句或條列整理。",
+            "- 不要加入額外前言、評分表、來源說明或冗長推論。",
+            "- 中文總結如果評論沒有提到該項目，請寫「評論中未明確提到」。",
+            "- English Summary 如果評論沒有提到該項目，請寫 `Not clearly mentioned in the reviews.`",
+            "",
+            "# 中文總結",
+            "",
+            "## 名稱",
+            "整理地點或店家的名稱；如果原始內容有星等與評論數，請在名稱旁邊加上「（幾顆星、多少評論）」；如果有分店名稱，也一併寫出。",
+            "",
+            "## 推薦/優點",
+            "整理值得推薦的地方、亮點、常被稱讚的餐點或體驗。",
+            "",
+            "## 不推薦/缺點",
+            "整理負評、抱怨、踩雷點、品質不穩或不適合的人。",
+            "",
+            "## 地點停車",
+            "整理地點便利性、交通、停車、排隊、訂位或附近環境。",
+            "",
+            "## 價位",
+            "整理價格、CP 值、份量與是否偏貴。",
+            "",
+            "## 服務",
+            "整理服務態度、速度、親切度、專業度與客訴。",
+            "",
+            "## 其他",
+            "整理不屬於上述分類但有參考價值的資訊。",
+            "",
+            "## 和其他餐廳比較",
+            "整理評論中提到和其他餐廳、分店、同類型店家的比較；如果沒有相關資訊，請只輸出「無」。",
+            "",
+            "## 簡短總結",
+            "用 2 到 3 句話給出整體結論，說明適合誰、不適合誰。",
+            "",
+            "# English Summary",
+            "",
+            "## Name",
+            "Summarize the place or business name. If the source content includes the rating and review count, add them next to the name as `(rating stars, review count reviews)`. Include branch names if they appear in the source content.",
+            "",
+            "## Recommendations / Strengths",
+            "Summarize what is worth recommending, highlights, frequently praised dishes, or positive experiences.",
+            "",
+            "## Not Recommended / Weaknesses",
+            "Summarize negative feedback, complaints, disappointing points, unstable quality, or who may not enjoy it.",
+            "",
+            "## Location and Parking",
+            "Summarize location convenience, transportation, parking, queues, reservations, or nearby environment.",
+            "",
+            "## Price",
+            "Summarize pricing, value for money, portion size, and whether it feels expensive.",
+            "",
+            "## Service",
+            "Summarize service attitude, speed, friendliness, professionalism, and customer complaints.",
+            "",
+            "## Other",
+            "Summarize useful information that does not fit the categories above.",
+            "",
+            "## Comparison with Other Restaurants",
+            "Summarize comparisons with other restaurants, branches, or similar places mentioned in the reviews. If there is no relevant information, output only `None`.",
+            "",
+            "## Brief Summary",
+            "Give an overall conclusion in 2 to 3 sentences, explaining who it is suitable for and who it is not suitable for.",
+            "",
+            "原始內容：",
+            sourceText,
+          ].join("\n");
+
+          let summary = "";
+          let usedModel = "";
+          const errors = [];
+
+          for (const model of models) {
+            console.log(`Trying Gemini model: ${model}`);
+
+            try {
+              const response = await fetch(
+                `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+                {
+                  method: "POST",
+                  headers: { "Content-Type": "application/json" },
+                  body: JSON.stringify({
+                    contents: [{ parts: [{ text: prompt }] }],
+                  }),
+                }
+              );
+
+              const data = await response.json();
+              if (!response.ok) {
+                throw new Error(data.error?.message || `Gemini request failed: ${response.status}`);
+              }
+
+              summary =
+                data.candidates?.[0]?.content?.parts
+                  ?.map((part) => part.text || "")
+                  .join("")
+                  .trim() || "";
+
+              if (!summary) {
+                throw new Error("Gemini returned an empty summary.");
+              }
+
+              usedModel = model;
+              break;
+            } catch (error) {
+              const message = error instanceof Error ? error.message : String(error);
+              errors.push(`${model}: ${message}`);
+              console.log(`Gemini model failed: ${model}`);
+              console.log(message);
+            }
+          }
+
+          if (!summary) {
+            throw new Error(`All Gemini models failed:\n${errors.join("\n")}`);
+          }
+
+          fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+          fs.writeFileSync(
+            outputPath,
+            `${summary}\n\n---\nGenerated from \`${inputPath}\` with \`${usedModel}\` at ${new Date().toISOString()}.\n`,
+            "utf8"
+          );
+          })();
+          NODE
+
+      - name: Commit summary
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$OUTPUT_PATH"
+          git diff --cached --quiet || git commit -m "Update latest page export analysis"
+          git push
+
