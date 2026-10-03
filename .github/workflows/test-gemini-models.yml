@@ -1,0 +1,23 @@
+name: Test Gemini fallback models
+on:
+  push:
+    branches:
+      - codex/test-gemini-fallback-20261004
+    paths:
+      - .github/workflows/test-gemini-models.yml
+      - scripts/test-gemini-models.cjs
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test-models:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Test fallback behavior and six live Gemini models
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LIVE_MODEL_TEST: "true"
+        run: node scripts/test-gemini-models.cjs
