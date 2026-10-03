@@ -46,7 +46,7 @@ async function main() {
   if (process.env.LIVE_MODEL_TEST !== "true") return;
   assert.ok(process.env.GEMINI_API_KEY, "Missing GEMINI_API_KEY repository secret");
   const results = [];
-  for (const model of models) {
+  for (const model of ["gemini-3.7-flash", "gemini-3.6-flash", "gemini-3.5-flash"]) {
     let passed = false;
     for (let attempt = 1; attempt <= 3; attempt++) {
       const output = path.join(dir, `${model}.md`);
@@ -68,6 +68,13 @@ async function main() {
   const table = "| Model | Live result |\n|---|---|\n" + results.map(r => `| ${r.model} | ${r.passed ? "PASS" : "FAIL"} |`).join("\n") + "\n";
   console.log(table);
   if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, table);
+  const chainOutput = path.join(dir, "live-fallback-chain.md");
+  const chainResult = runScript(models, chainOutput);
+  assert.equal(chainResult.status, 0, sanitize(chainResult.stderr));
+  const chainReport = fs.readFileSync(chainOutput, "utf8");
+  assert.ok(chainReport.includes("# 中文總結") && chainReport.includes("# English Summary"));
+  console.log("PASS: complete live fallback chain.");
+  console.log(sanitize(chainResult.stdout));
   assert.ok(results.every(r => r.passed), "One or more models failed the live test; do not change production configuration.");
 }
 
