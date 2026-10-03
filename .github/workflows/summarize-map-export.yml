@@ -16,7 +16,7 @@ jobs:
     env:
       INPUT_PATH: codex-analysis/latest-page-export.txt
       OUTPUT_PATH: codex-analysis/latest-page-export-analysis.md
-      GEMINI_MODELS: gemini-3-flash-preview,gemini-2.5-flash,gemini-2.5-flash-lite
+      GEMINI_MODELS: gemini-3.8-flash,gemini-3.7-flash,gemini-3.6-flash,gemini-3.5-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,7 +39,7 @@ jobs:
 
           const inputPath = process.env.INPUT_PATH;
           const outputPath = process.env.OUTPUT_PATH;
-          const models = (process.env.GEMINI_MODELS || process.env.GEMINI_MODEL || "gemini-3-flash-preview,gemini-2.5-flash,gemini-2.5-flash-lite")
+          const models = (process.env.GEMINI_MODELS || process.env.GEMINI_MODEL || "gemini-3.8-flash,gemini-3.7-flash,gemini-3.6-flash,gemini-3.5-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite")
             .split(",")
             .map((model) => model.trim())
             .filter(Boolean);
