@@ -1,0 +1,21 @@
+name: Validate Gemini primary and fallback chain
+on:
+  push:
+    branches:
+      - codex/test-gemini-fallback-20261004
+    paths:
+      - .github/workflows/test-gemini-chain.yml
+      - scripts/test-gemini-chain.cjs
+permissions:
+  contents: read
+jobs:
+  validate-chain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate live chain and recovery when primary is unavailable
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/test-gemini-chain.cjs
