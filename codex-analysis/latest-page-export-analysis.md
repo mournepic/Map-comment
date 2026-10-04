@@ -1,92 +1,86 @@
 # 中文總結
 
 ## 名稱
-* AT ISAN（4.8 顆星、580 篇評論）
-* 位於曼谷蓬蓬區（Phrom Phong）的蘇坤蔚 33/1 巷。
+Ăn Cơm Ăn Cá - Emsphere Branch（4.1 顆星、266 篇評論）
 
 ## 推薦/優點
-* 提供道地且美味的泰國東北（伊桑）料理，風味調和得極佳、擺盤精緻。
-* 招牌烤雞（Gai Yang）鮮嫩多汁且雞皮酥脆，烤豬頸肉（Kor Moo Yang）外酥內嫩、肥美彈牙。
-* 青木瓜沙拉（Som Tum）、泰式炒河粉（Pad Thai）與冬蔭功湯普遍獲得高度好評。
-* 用餐環境極其乾淨、明亮且新穎，裝潢溫馨如時尚咖啡廳，冷氣非常涼爽。
-* 設有開放式廚房，讓顧客能親眼看見新鮮烹調過程，衛生狀況無可挑剔。
+- 提供精緻現代的泰越融合料理，餐點擺盤美觀，搭配藍白花紋的質感餐具十分適合拍照。
+- 隨餐附贈新鮮且豐富的生菜與香草配菜，部分菜色可免費續加蔬菜與醬料。
+- 熱門推薦餐點包含炸芋頭春捲、烤肉串（Nem Nuong）、鮮蝦生春捲、牛肉河粉以及酪梨冰淇淋與蛋咖啡。
 
 ## 不推薦/缺點
-* 部分評論反應餐點分量偏少，需要點較多道菜才能有飽足感。
-* 少數顧客抱怨遇到服務生急著收拾未吃完的盤子，讓人產生被催促的不適感。
-* 為了迎合外國遊客，部分菜餚口味被調整得偏甜，且傳統伊桑香腸口感稍微偏乾。
-* 炸鴨嘴、炸豬腸等少數特定部位料理，以及過鹹的排骨湯，較不符合部分旅客胃口。
+- 口味偏向泰式改良（偏甜、偏辣或偏鹹），對追求正宗越南風味的顧客來說不夠地道。
+- 食材品質與烹調穩定度有待提升，有顧客抱怨魚肉土腥味重、河粉內的牛肉過厚過韌、魷魚不新鮮。
+- 內用空間較為擁擠，桌子偏小不易擺放餐點，開放式環境在尖峰時段略顯吵雜。
 
 ## 地點停車
-* 鄰近 BTS Phrom Phong 站（步行約 4 分鐘），坐落於熱鬧的日本街區內，交通非常便利。
-* 餐廳門口及周邊巷弄停車極其不便，建議搭乘大眾運輸前往。
-* 開車者需將車輛停放在附近的付費富士超市（Fuji Super No.1）或 EmQuartier 購物中心。
+- 位於曼谷 Emsphere 百貨公司 GM 樓層（手扶梯旁），可搭乘 BTS 至 Phrom Phong 站步行前往。
+- 車輛可停放於 Emsphere 百貨地下停車場，通常提供前 2 小時免費停車，過後需依商場規定收費。
+- 熱門時段需要現場排隊候位，並需留下泰國當地電話號碼等待通知。
 
 ## 價位
-* 人均消費多落在 200 至 400 泰銖之間，以市中心地段與優質環境而言，性價比非常高。
-* 價格比一般的路邊攤稍貴，且結帳時需加收 10% 附加費（增值稅與服務費），使用信用卡付款可能加收 3% 手續費。
+- 平均每人消費約在 400 至 1,000 泰銖之間，整體價位偏高。
+- 結帳需額外加收 10% 服務費與 7% 增值稅（VAT）。
+- 多數評論認為價格相較於份量略貴，但考量到百貨公司地段與食材品質尚可接受。
 
 ## 服務
-* 大多數服務人員熱情、友善且面帶微笑，能使用英語和基本日語溝通，服務效率高。
-* 部分評論曾提及飲料上菜速度較慢，或是服務生在經理指導下過於積極收盤子，影響用餐節奏。
+- 多數服務人員態度熱情親切、上菜速度快，並能提供英文菜單與溝通。
+- 尖峰時段服務品質不穩定，出現過漏單、上菜過慢、店員聊天忽略顧客的需求。
+- 有顧客反映店員對飲食限制（如素食者誤上豬肉）不夠細心。
 
 ## 其他
-* 餐廳共有三層樓，一樓為休閒用餐區，二樓適合團體聚餐，三樓設有配備投影機與麥克風的私人包廂。
-* 店內提供極速的免費 Wi-Fi（評論實測達 480Mbps），且辣度可完全依顧客喜好客製化調整。
-* 飲品選擇極為豐富，包含自家農場的草藥茶、泰國各地的特色烈酒、性價比高的葡萄酒以及泰國米酒（Sato）。
+- 隸屬於泰國知名的 iBerry 餐飲集團。
+- 提供豐富的素食與純素（Vegetarian/Vegan）菜單選項。
+- 寵物友善，允許小型犬置於封閉推車內一同入內用餐。
 
 ## 和其他餐廳比較
-* 評論指出其餐點的美味程度與精緻細節，比許多米其林推薦餐廳更令人滿意。
-* 相較於傳統泰國街頭的露天小吃攤，這裡在保留道地美味的同時，提供了更乾淨、衛生且有冷氣的舒適環境。
+- 相較於越南當地的傳統小吃，這裡的口味經過泰式調味改良，價格也高出許多。
+- 相較於沙吞（Sathorn）總店，Emsphere 分店空間較擁擠且吵雜，但有顧客提到此分店河粉份量較多。
 
 ## 簡短總結
-At Isan 是一家在乾淨、時尚的冷氣空間中，提供高品質且道地泰東北料理的優秀餐廳。非常適合重視環境衛生、想舒適用餐的觀光客、家庭及商務團體聚會；但若追求傳統路邊攤的超低價格、極大分量或無調整的極致酸辣風味，這裡可能不是首選。
-
----
+這是一家部位於熱門百貨內的高檔泰越融合料理餐廳，適合喜歡豐富新鮮蔬菜、精緻擺盤與購物商場便利環境的饕客。若您追求極致正宗的傳統越南風味或高 CP 值平價美食，這裡可能不太符合您的期待。
 
 # English Summary
 
 ## Name
-* AT ISAN (4.8 stars, 580 reviews)
-* Located in Sukhumvit Soi 33/1, Phrom Phong, Bangkok.
+Ăn Cơm Ăn Cá - Emsphere Branch (4.1 stars, 266 reviews)
 
 ## Recommendations / Strengths
-* Offers highly delicious and authentic Northeastern Thai (Isan) cuisine with beautifully balanced flavors and refined presentation.
-* The Grilled Chicken (Gai Yang) is highly praised for being juicy with crispy skin, and the Grilled Pork Neck (Kor Moo Yang) is tender, flavorful, and perfectly cooked.
-* Classic dishes like Som Tum (Papaya Salad), Pad Thai, and Tom Yum Goong consistently receive outstanding feedback.
-* The dining environment is exceptionally clean, modern, and bright, featuring a cozy cafe-like atmosphere and strong air conditioning.
-* The open kitchen allows guests to witness the fresh preparation process, ensuring impeccable hygiene standards.
+- Offers modern, beautifully presented Thai-Vietnamese fusion dishes served on attractive blue-and-white patterned tableware.
+- Generous portions of fresh vegetables and traditional herbs are served alongside meals, with complimentary refills available for fresh greens and sauces.
+- Frequently praised menu items include fried taro spring rolls, grilled pork skewers (Nem Nuong), fresh shrimp rolls, beef Pho, avocado ice cream, and egg coffee.
 
 ## Not Recommended / Weaknesses
-* Some reviewers noted that the portion sizes are relatively small, meaning groups may need to order multiple dishes to feel full.
-* A few customers complained about service staff rushing to clear plates before they had finished eating, which felt disruptive.
-* Some dishes appear to be slightly adjusted with a sweeter profile to cater to foreign tourists, and the traditional Isan sausage was occasionally described as a bit dry.
-* A few adventurous dishes, such as fried duck beaks, fried pork intestines, or overly salty rib soup, did not suit every diner's palate.
+- Lacks strict traditional authenticity, as flavor profiles are heavily adapted to Thai taste buds (sweeter, spicier, or saltier).
+- Quality control can be inconsistent, with complaints about muddy-tasting fish, tough/thick beef slices in Pho, and overcooked squid.
+- Dining space feels cramped with small tables, and the open-mall layout can get quite noisy during peak hours.
 
 ## Location and Parking
-* Superbly located in Sukhumvit Soi 33/1 (near Fuji Super No.1), just a 4-minute walk from BTS Phrom Phong Station.
-* Street parking is extremely difficult and highly discouraged in this narrow alley.
-* Drivers are advised to use paid parking at the nearby Fuji Super or the EmQuartier/Emporium shopping malls.
+- Located on the GM Floor of Emsphere Mall (next to the escalator), easily accessible via BTS Phrom Phong Station.
+- Parking is available in the Emsphere mall parking garage (typically free for the first 2 hours, with fees applying afterward).
+- Peak dining hours require walk-in queuing, where guests must leave a local Thai phone number to be notified.
 
 ## Price
-* Average spending ranges between ฿200 to ฿400 per person, representing excellent value for money given the prime city-center location.
-* It is slightly pricier than street-side stalls, and a 10% surcharge (VAT and service charge) or a 3% credit card fee may apply.
+- High price range, with average spending between 400 and 1,000+ THB per person.
+- Bills are subject to an additional 10% service charge and 7% VAT.
+- Portions feel somewhat small relative to the high price, though many consider it acceptable for a prime mall location.
 
 ## Service
-* Most of the staff are praised for being warm, friendly, polite, and capable of communicating in basic English and Japanese.
-* A few minor complaints highlighted slow drink preparation or staff being overly eager to clear tables under the manager's guidance.
+- Many reviewers praise the friendly and efficient staff who can communicate comfortably in English.
+- Service drops during rush hours, leading to forgotten orders, slow food delivery, and staff playing on their phones.
+- Isolated complaints note staff carelessness regarding special dietary restrictions (e.g., accidentally serving pork to a vegetarian guest).
 
 ## Other
-* The restaurant spans three floors, featuring a casual first floor, a spacious second floor for groups, and a private third-floor room (fitting 24–36 guests) equipped with a projector and microphone.
-* Offers high-speed free Wi-Fi (tested up to 480 Mbps by a reviewer) and fully customizable spice levels upon request.
-* Features a remarkable beverage menu, including organic herbal teas from their own farm, rare local Thai spirits, affordable wines, and Sato (Thai rice wine).
+- Part of Thailand's well-known iBerry Group.
+- Features a comprehensive vegetarian and vegan menu.
+- Pet-friendly environment under specific conditions (dogs inside enclosed strollers are permitted indoors).
 
 ## Comparison with Other Restaurants
-* Some reviewers noted that the food quality, taste, and presentation here are superior and more satisfying than many Michelin-rated establishments.
-* Unlike traditional, hot, and rustic open-air street stalls, this restaurant provides a highly hygienic, air-conditioned experience without sacrificing authentic Isan flavors.
+- Compared to authentic street food in Vietnam, the dishes here are less traditional, adjusted for local palates, and significantly higher in price.
+- Compared to its flagship Sathorn branch, the Emsphere branch has a noisier and tighter seating environment, though some note larger Pho portions here.
 
 ## Brief Summary
-At Isan is an outstanding dining destination that beautifully merges authentic Northeastern Thai street flavors with a clean, stylish, and comfortable air-conditioned cafe setting. It is perfect for tourists, families, and groups prioritizing hygiene and comfort, though it may not suit those seeking cheap street-stall prices, giant portions, or uncompromised fiery heat.
+Ăn Cơm Ăn Cá is a chic mall-based fusion restaurant ideal for diners who enjoy modern, vegetable-heavy Vietnamese-inspired meals with great presentation. It may not be suitable for purists seeking authentic Vietnamese flavors or travelers looking for a budget-friendly meal.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.5-flash` at 2026-10-04T06:15:54.142Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.6-flash` at 2026-10-04T06:22:15.414Z.
