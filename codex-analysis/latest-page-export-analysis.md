@@ -1,80 +1,88 @@
 # 中文總結
 
 ## 名稱
-Zaap E-Lee - EmQuartier 分店（4.1 顆星、264 篇評論）
+LELE by le mai anh（4.6 顆星、414 篇評論）
 
 ## 推薦/優點
-- 主打正宗泰國東北料理（伊桑菜），青木瓜沙拉、瑯勃拉邦沙拉、香脆烤雞、冬蔭功排骨湯與鹹蛋玉米沙拉廣受好評。
-- 提供多種特色菜餚（如螞蟻卵、蟹膏糯米飯），食材新鮮且可依個人喜好調整辣度。
-- 餐點整體風味濃鬱、擺盤精緻，是商場內想品嚐辣味泰菜的熱門選擇。
+- 採用自家農場種植的有機蔬菜與新鮮香草，乾淨爽口且健康少負擔。
+- 越南烤豬肉丸捲（Nem Nuong）、奶奶秘製炸春捲、米紙捲與甘蔗蝦廣受好評。
+- 調味平衡的烤肉炒飯、香茅斑蘭葉茶與越南滴漏咖啡深受顧客喜愛。
+- 上菜速度極為迅速，非常適合快速解決一餐。
 
 ## 不推薦/缺點
-- 部分餐點品質不穩定，有顧客反映口味過鹹（如炒泡麵、炸豬肉），或是烤肉過乾過硬。
-- 出現過生鮭魚不夠新鮮、鯖魚未去淨魚刺等問題，且整體餐點份量偏少。
-- 少數評論提到環境衛生欠佳（有蟲害疑慮），以及上菜速度極慢。
+- 部分顧客反應河粉湯底偏淡、偏甜或薑味太重，且牛肉片有時偏硬難嚼。
+- 有顧客認為口味偏泰式調整，缺乏海鮮醬與是拉差醬，不夠正宗越式。
+- 偶有品管與衛生問題反饋，例如醬料有毛髮、湯內疑似金屬片或漏單燒焦。
+- 菜單未供應常見的越南法國麵包（Banh Mi）。
 
 ## 地點停車
-- 位於 EmQuartier 購物中心 B 層美食廣場旁（近 Swensen's），搭乘 BTS 至 Phrom Phong 站即可抵達，交通便利。
-- 店面空間較小、座位有限，尖峰時段較為吵雜擁擠，常需排隊等待。
-- 購物中心設有停車場，消費可折抵停車費，但熱門時段車位較難找。
+- 位於曼谷 Phrom Phong 區素坤逸 31 巷的 RSU 大樓一樓，鄰近 BTS 站與 EmSphere。
+- 用餐區屬於大樓走廊的大廳開放式空間，桌數不多且較無隱私感。
+- 大樓附設室內停車場，部分評論提及憑餐廳印章可享免費停車。
 
 ## 價位
-- 人均消費約 ฿200 至 ฿600 泰銖，價格雖高於街頭小吃，但在商場屬於合理範圍。
-- 餐點份量偏小，結帳時需額外加收 10% 服務費與 7% 增值稅（VAT）。
+- 人均消費多數落在 100 至 400 泰銖之間，河粉約 150 至 210 泰銖。
+- 考量到有機蔬菜品質與地段，多數顧客認為物有所值，但也有人覺得稍貴於一般越南小吃。
 
 ## 服務
-- 服務評價兩極，部分顧客稱讚店員親切有禮、上菜迅速且對親子友善。
-- 許多負評指出服務態度冷淡、忽視顧客呼叫、經常送錯菜、漏單，甚至有帳單開錯或重複收費的情況。
+- 店員態度普遍熱情、親切且面帶微笑，外場應對十分有禮。
+- 出餐效率極高，點餐後幾乎無需久候。
+- 支援 QR Code 掃碼點餐，但偶爾有系統連線問題。
 
 ## 其他
-- 點餐需掃描 QR Code，若不習慣可要求提供實體菜單或 iPad。
-- 餐點整體辣度偏高，不吃辣或低耐辣者點餐時需主動提醒店家。
-- 餐廳提供會員點數累積機制，並支援外帶與外送服務。
+- 店內主要接受現金或行動二維碼支付，不接受信用卡。
+- 提供豐富的素食與植物肉替代選項，亦有預先包裝的烤肉捲冷藏外帶。
+- 晚間打烊時間較早（約 19:30 至 20:30），且開放式空間有時空調偏涼或偏悶。
 
 ## 和其他餐廳比較
-有顧客認為這裡的口味比部分米其林必比登餐廳更不鹹；但多數評論指出，此分店的服務與品質穩定度遜於 Ari 與 Arena10 Thonglor 分店，餐點美味度也不如 Esplanade Ratchada 分店。
+有評論提及雖然味道不錯，但 Le Dalat 的口味更好且價格更便宜；亦有常居越南的顧客認為不如越南當地的道地河粉。
 
 ## 簡短總結
-本店非常適合喜愛重口味、道地泰國東北辣味料理，且正好在 EmQuartier 商場逛街用餐的饕客。然而，對於非常注重服務品質、追求安靜用餐環境，或不習慣高辣度與小份量的顧客則不太推薦。
+本店非常適合在周邊上班、健身運動後或追求清爽低負擔、喜愛新鮮有機蔬菜與快速便餐的顧客。對於追求濃郁傳統越南河粉高湯、想吃越南法國麵包，或偏好正式餐廳封閉用餐環境的人則較不推薦。
+
+---
 
 # English Summary
 
 ## Name
-Zaap E-Lee - EmQuartier Branch (4.1 stars, 264 reviews)
+LELE by le mai anh (4.6 stars, 414 reviews)
 
 ## Recommendations / Strengths
-- Specializes in authentic Northeastern Thai (Isan) cuisine, with Som Tum (papaya salad), Luang Prabang salad, crispy grilled chicken, Tom Zaap rib soup, and salted egg corn salad being heavily praised.
-- Offers unique dishes such as ant eggs and crab paste with sticky rice, using fresh ingredients with customizable spice levels.
-- Most dishes feature rich, well-balanced flavors and attractive presentation, making it a popular option for spicy food lovers in the mall.
+- Uses fresh, pesticide-free organic vegetables and herbs sourced directly from their own farm.
+- Highly praised dishes include Nem Nuong (grilled pork rolls), grandma's crispy fried spring rolls, and sugar cane shrimp.
+- Popular specialty options include grilled pork fried rice, refreshing lemongrass pandan tea, and traditional Vietnamese drip coffee.
+- Food is prepared and served very quickly, making it ideal for a nutritious and swift meal.
 
 ## Not Recommended / Weaknesses
-- Inconsistent food quality, with some diners complaining that dishes are overly salty (e.g., stir-fried instant noodles, fried pork) or meat is dry and tough.
-- Issues with ingredient preparation have been noted, such as raw salmon not feeling fresh, unremoved fish bones in mackerel, and overall small portions.
-- A few reviews mentioned poor hygiene standards and excessively long wait times for orders.
+- Several diners noted that the pho broth was overly bland, sweet, or too ginger-heavy, with beef slices occasionally being tough.
+- Some customers felt the flavors were localized to Thai tastes rather than authentically Vietnamese, missing hoisin or Sriracha sauces.
+- Occasional quality control and cleanliness complaints were mentioned, including hair in sauce, a metallic fragment in soup, and a forgotten burned order.
+- The menu lacks traditional Vietnamese baguettes (Banh Mi).
 
 ## Location and Parking
-- Situated on Floor B of EmQuartier Shopping Mall near the food court (near Swensen's), directly accessible via BTS Phrom Phong Station.
-- The dining space is small with limited seating, which can get noisy, crowded, and require queuing during peak hours.
-- Mall parking is available with free parking validation based on spending tiers, though finding a spot can be difficult during peak hours.
+- Located on the ground floor lobby of the RSU Tower on Sukhumvit Soi 31, near BTS Phrom Phong and opposite EmSphere.
+- Seating is arranged in an open-concept building hallway rather than an enclosed traditional dining room.
+- Parking is available in the office building, with reviews noting that restaurant validation provides free parking.
 
 ## Price
-- Average spending ranges from ฿200 to ฿600 per person, which is higher than street food but considered fair for a shopping center.
-- Portions tend to be small for the price, and bills are subject to an additional 10% service charge and 7% VAT.
+- The average cost per person ranges between 100 and 400 THB, with noodle bowls starting around 150 to 210 THB.
+- Most guests consider it reasonably priced given the prime location and certified organic produce, though a few feel it is slightly expensive compared to local street stalls.
 
 ## Service
-- Service feedback is strongly divided; some guests report polite, fast, and child-friendly staff.
-- Many negative reviews cite inattentive or rude staff, frequent order mix-ups, missed items, slow response times, and billing errors.
+- Staff members are consistently described as polite, warm, attentive, and welcoming.
+- Kitchen turnaround is remarkably fast, requiring minimal wait time even during busy hours.
+- A QR code ordering system is available, though some guests encountered minor system errors.
 
 ## Other
-- Ordering requires scanning a QR code, though customers can request an iPad or paper menu if needed.
-- Dishes are generally very spicy by default; non-spicy eaters should explicitly request lower spice levels when ordering.
-- The restaurant offers a membership points system, as well as takeout and delivery options.
+- Payment is mainly via cash or QR prompt pay, with no credit cards accepted.
+- Good vegan and plant-based protein options are provided, along with grab-and-go packaged rolls in a display fridge.
+- The restaurant closes relatively early (around 7:30 PM to 8:30 PM), and the open lobby space can vary in temperature.
 
 ## Comparison with Other Restaurants
-Some reviews noted that the food here is less overly salty compared to certain Michelin Bib Gourmand spots. However, multiple customers mentioned that the service and consistency are inferior to other Zaap E-Lee branches, specifically Ari, Arena10 Thonglor, and Esplanade Ratchada.
+A reviewer noted that while the food is decent, Le Dalat offers better taste at a cheaper price; others familiar with dining in Vietnam felt the broth was less authentic than what is found locally in Vietnam.
 
 ## Brief Summary
-This restaurant is ideal for diners looking for rich, authentic, and spicy Northeastern Thai cuisine while visiting EmQuartier. It is less suitable for those who prioritize attentive customer service, quiet surroundings, large portions, or mild flavor profiles.
+This spot is ideal for nearby office workers, gym enthusiasts, and diners seeking a clean, healthy meal packed with fresh organic greens and quick service. It is less suited for those seeking a deeply rich traditional pho broth, authentic banh mi, or an enclosed, upscale restaurant ambiance.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.6-flash` at 2026-10-04T05:38:09.156Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.8-flash` at 2026-10-04T05:48:37.439Z.
