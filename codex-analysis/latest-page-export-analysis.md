@@ -1,80 +1,80 @@
 # 中文總結
 
 ## 名稱
-Kub Kao Kub Pla @Emquartier（4.2 顆星、1,601 篇評論）
+Zaap E-Lee - EmQuartier 分店（4.1 顆星、264 篇評論）
 
 ## 推薦/優點
-- 菜色豐富且口味濃郁道地，多數料理份量充足，白飯十分下飯。
-- 冬陰功湯、酥脆炸魚、咖哩系列、炒空心菜、泰奶剉冰及法式甜點廣受好評。
-- 店內裝潢精美舒適、明亮且適合拍照，菜單附有圖片與中文，對外國觀光客相當友善。
+- 主打正宗泰國東北料理（伊桑菜），青木瓜沙拉、瑯勃拉邦沙拉、香脆烤雞、冬蔭功排骨湯與鹹蛋玉米沙拉廣受好評。
+- 提供多種特色菜餚（如螞蟻卵、蟹膏糯米飯），食材新鮮且可依個人喜好調整辣度。
+- 餐點整體風味濃鬱、擺盤精緻，是商場內想品嚐辣味泰菜的熱門選擇。
 
 ## 不推薦/缺點
-- 杏仁片蝦餅評價兩極，多位顧客反映杏仁味過重蓋過蝦肉鮮味。
-- 部分菜色（如煎蛋、炸物與炒中卷）偏油膩，吃到最後容易感到膩口。
-- 整體辣度偏高且強烈，部分餐點如蟹肉義大利麵極辣，不耐辣者容易吃不消。
+- 部分餐點品質不穩定，有顧客反映口味過鹹（如炒泡麵、炸豬肉），或是烤肉過乾過硬。
+- 出現過生鮭魚不夠新鮮、鯖魚未去淨魚刺等問題，且整體餐點份量偏少。
+- 少數評論提到環境衛生欠佳（有蟲害疑慮），以及上菜速度極慢。
 
 ## 地點停車
-- 位於 EmQuartier 百貨 6 樓，地理位置優越，逛街兼聚餐十分便利。
-- 尖峰時段人潮多需抽取號碼牌候位，但翻桌率相對迅速。
-- 評論提及商場內提供充足停車位與免費室內停車場。
+- 位於 EmQuartier 購物中心 B 層美食廣場旁（近 Swensen's），搭乘 BTS 至 Phrom Phong 站即可抵達，交通便利。
+- 店面空間較小、座位有限，尖峰時段較為吵雜擁擠，常需排隊等待。
+- 購物中心設有停車場，消費可折抵停車費，但熱門時段車位較難找。
 
 ## 價位
-- 平均每人消費約 400 至 900 泰銖不等，部分大菜（如蟹肉煎蛋）價格較高。
-- 整體價位高於一般街邊泰菜，但以百貨商場環境與份量而言，多人分攤性價比算合理。
+- 人均消費約 ฿200 至 ฿600 泰銖，價格雖高於街頭小吃，但在商場屬於合理範圍。
+- 餐點份量偏小，結帳時需額外加收 10% 服務費與 7% 增值稅（VAT）。
 
 ## 服務
-- 服務人員態度大多熱情親切，對菜單內容說明詳細且具有專業度。
-- 忙碌時段出餐速度偶有延遲，偶見忘記補酒精塊、漏送兒童餐具或出菜順序混亂的情形。
+- 服務評價兩極，部分顧客稱讚店員親切有禮、上菜迅速且對親子友善。
+- 許多負評指出服務態度冷淡、忽視顧客呼叫、經常送錯菜、漏單，甚至有帳單開錯或重複收費的情況。
 
 ## 其他
-- 店內提供素食專屬菜單選項，且支援信用卡付款。
-- 用餐環境具親子友善氛圍，相當適合同行有多位成員的家庭聚餐。
+- 點餐需掃描 QR Code，若不習慣可要求提供實體菜單或 iPad。
+- 餐點整體辣度偏高，不吃辣或低耐辣者點餐時需主動提醒店家。
+- 餐廳提供會員點數累積機制，並支援外帶與外送服務。
 
 ## 和其他餐廳比較
-- 評論指出其價格比連鎖名店 Nara 更平實、菜色選擇更多，整體口味表現更佳。
-- 另有顧客認為其料理水準明顯優於 Nana 泰式餐廳。
+有顧客認為這裡的口味比部分米其林必比登餐廳更不鹹；但多數評論指出，此分店的服務與品質穩定度遜於 Ari 與 Arena10 Thonglor 分店，餐點美味度也不如 Esplanade Ratchada 分店。
 
 ## 簡短總結
-本店非常適合喜歡濃烈泰式香料風味、想在舒適商場環境中與親友聚餐的觀光客。但若飲食偏好清淡、怕油膩，或完全不耐辣，點餐時需特別謹慎挑選。
+本店非常適合喜愛重口味、道地泰國東北辣味料理，且正好在 EmQuartier 商場逛街用餐的饕客。然而，對於非常注重服務品質、追求安靜用餐環境，或不習慣高辣度與小份量的顧客則不太推薦。
 
 # English Summary
 
 ## Name
-Kub Kao Kub Pla @Emquartier (4.2 stars, 1,601 reviews)
+Zaap E-Lee - EmQuartier Branch (4.1 stars, 264 reviews)
 
 ## Recommendations / Strengths
-- Offers a wide variety of authentic and flavorful Thai dishes with generous portion sizes.
-- Highly praised items include the Tom Yum soup, crispy fried fish, curries, morning glory, Thai tea shaved ice, and desserts.
-- The restaurant features a stylish, bright, and photo-friendly ambiance, with menus complete with photos and Chinese text.
+- Specializes in authentic Northeastern Thai (Isan) cuisine, with Som Tum (papaya salad), Luang Prabang salad, crispy grilled chicken, Tom Zaap rib soup, and salted egg corn salad being heavily praised.
+- Offers unique dishes such as ant eggs and crab paste with sticky rice, using fresh ingredients with customizable spice levels.
+- Most dishes feature rich, well-balanced flavors and attractive presentation, making it a popular option for spicy food lovers in the mall.
 
 ## Not Recommended / Weaknesses
-- The almond shrimp cakes received mixed feedback, as strong almond flakes often overpower the shrimp flavor.
-- Several dishes like fried eggs and stir-fried meats tend to be quite greasy and heavy toward the end.
-- Heat levels can be intensely spicy, with certain items like crab pasta overwhelming those with low spice tolerance.
+- Inconsistent food quality, with some diners complaining that dishes are overly salty (e.g., stir-fried instant noodles, fried pork) or meat is dry and tough.
+- Issues with ingredient preparation have been noted, such as raw salmon not feeling fresh, unremoved fish bones in mackerel, and overall small portions.
+- A few reviews mentioned poor hygiene standards and excessively long wait times for orders.
 
 ## Location and Parking
-- Conveniently located on the 6th floor of EmQuartier shopping mall, making it an easy dining stop while shopping.
-- Peak hours usually require taking a waiting ticket, though table turnover is relatively fast.
-- Ample parking space is available with free indoor parking within the mall.
+- Situated on Floor B of EmQuartier Shopping Mall near the food court (near Swensen's), directly accessible via BTS Phrom Phong Station.
+- The dining space is small with limited seating, which can get noisy, crowded, and require queuing during peak hours.
+- Mall parking is available with free parking validation based on spending tiers, though finding a spot can be difficult during peak hours.
 
 ## Price
-- Average spending ranges between 400 and 900 THB per person, while signature seafood dishes can exceed 1,000 THB.
-- Prices are higher than local street food, but most diners consider the value reasonable for mall dining, especially when shared in groups.
+- Average spending ranges from ฿200 to ฿600 per person, which is higher than street food but considered fair for a shopping center.
+- Portions tend to be small for the price, and bills are subject to an additional 10% service charge and 7% VAT.
 
 ## Service
-- Staff members are generally polite, friendly, and helpful when explaining the menu.
-- During rush hours, service speed can slow down, with occasional oversights such as forgotten stove fuel or delayed children's utensils.
+- Service feedback is strongly divided; some guests report polite, fast, and child-friendly staff.
+- Many negative reviews cite inattentive or rude staff, frequent order mix-ups, missed items, slow response times, and billing errors.
 
 ## Other
-- Vegetarian options are available on the menu, and credit card payments are accepted.
-- The restaurant maintains a family-friendly atmosphere suitable for multi-generational dining.
+- Ordering requires scanning a QR code, though customers can request an iPad or paper menu if needed.
+- Dishes are generally very spicy by default; non-spicy eaters should explicitly request lower spice levels when ordering.
+- The restaurant offers a membership points system, as well as takeout and delivery options.
 
 ## Comparison with Other Restaurants
-- Reviewers noted it is cheaper, offers more choices, and tastes better compared to Nara.
-- Another reviewer mentioned the food quality is noticeably better than Nana.
+Some reviews noted that the food here is less overly salty compared to certain Michelin Bib Gourmand spots. However, multiple customers mentioned that the service and consistency are inferior to other Zaap E-Lee branches, specifically Ari, Arena10 Thonglor, and Esplanade Ratchada.
 
 ## Brief Summary
-This restaurant is ideal for tourists and groups looking for rich, authentic Thai cuisine in a comfortable mall environment. It may not suit diners who prefer light, low-oil dishes or those with very low spice tolerance.
+This restaurant is ideal for diners looking for rich, authentic, and spicy Northeastern Thai cuisine while visiting EmQuartier. It is less suitable for those who prioritize attentive customer service, quiet surroundings, large portions, or mild flavor profiles.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.8-flash` at 2026-10-03T23:41:15.869Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.6-flash` at 2026-10-04T05:38:09.156Z.
