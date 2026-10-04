@@ -1,88 +1,82 @@
 # 中文總結
 
 ## 名稱
-LELE by le mai anh（4.6 顆星、414 篇評論）
+Sava Modern Thai Flavour（4.2 顆星，181 篇評論），另有評論提及 Central Chidlom 分店。
 
 ## 推薦/優點
-- 採用自家農場種植的有機蔬菜與新鮮香草，乾淨爽口且健康少負擔。
-- 越南烤豬肉丸捲（Nem Nuong）、奶奶秘製炸春捲、米紙捲與甘蔗蝦廣受好評。
-- 調味平衡的烤肉炒飯、香茅斑蘭葉茶與越南滴漏咖啡深受顧客喜愛。
-- 上菜速度極為迅速，非常適合快速解決一餐。
+- 餐廳走現代精緻泰式融合風格，藍白配色裝潢高雅舒適且安靜，是商場內放鬆的好去處。
+- 推薦餐點包含冬蔭功湯、綠咖哩雞、泰式涼拌粉絲、炸韭菜餃子、炸魚餅、鮮蟹肉料理及沙嗲豬肉。
+- 甜點與茶飲表現優異，如木蘋果布丁（Bael Fruit Pudding）、藍莓起司蛋糕、泰奶吐司及 Mariage Frères 茶飲廣受好評。
 
 ## 不推薦/缺點
-- 部分顧客反應河粉湯底偏淡、偏甜或薑味太重，且牛肉片有時偏硬難嚼。
-- 有顧客認為口味偏泰式調整，缺乏海鮮醬與是拉差醬，不夠正宗越式。
-- 偶有品管與衛生問題反饋，例如醬料有毛髮、湯內疑似金屬片或漏單燒焦。
-- 菜單未供應常見的越南法國麵包（Banh Mi）。
+- 部份菜色調味偏重、過鹹或偏甜，甚至有油膩感；和牛飯曾被反映牛肉帶筋、豬肉口感偏硬。
+- 出餐效率不穩，多位顧客抱怨等候時間過長（25 至 50 分鐘以上），曾有衛生問題（出現小蟑螂）與急著收盤的狀況。
+- 菜系偏向觀光客或新派改良風格，對於追求傳統道地街頭風味的人來說可能不合胃口。
 
 ## 地點停車
-- 位於曼谷 Phrom Phong 區素坤逸 31 巷的 RSU 大樓一樓，鄰近 BTS 站與 EmSphere。
-- 用餐區屬於大樓走廊的大廳開放式空間，桌數不多且較無隱私感。
-- 大樓附設室內停車場，部分評論提及憑餐廳印章可享免費停車。
+- 現位於 The Emporium 百貨 M 樓（鄰近精品店區，先前曾位於 EmQuartier），搭乘 BTS 至 Phrom Phong 站即可抵達，交通便利但櫃位稍顯隱蔽。
+- 百貨公司內設有大量室內停車位，用餐消費可兌換停車折抵，亦有代客停車服務。
+- 大多數時段不需排隊等候，適合 2 至 4 人聚餐；座位類型包含一般座位、吧檯區及私人包廂，並具備無障礙通道。
 
 ## 價位
-- 人均消費多數落在 100 至 400 泰銖之間，河粉約 150 至 210 泰銖。
-- 考量到有機蔬菜品質與地段，多數顧客認為物有所值，但也有人覺得稍貴於一般越南小吃。
+- 價格整體偏高，平均每人消費約 500 至 1,200 泰銖不等（部分高檔點法每人超過 2,000 泰銖）。
+- 結帳需額外加收 10% 服務費與 7% 增值稅（VAT），部分評論認為份量普通、CP 值不高。
 
 ## 服務
-- 店員態度普遍熱情、親切且面帶微笑，外場應對十分有禮。
-- 出餐效率極高，點餐後幾乎無需久候。
-- 支援 QR Code 掃碼點餐，但偶爾有系統連線問題。
+- 多數評論稱讚服務親切有禮、態度熱情周到，甚至有經理親切接待或提供借用充電器的貼心舉動。
+- 少數評論指出人手不足時上菜極慢、服務生心不在焉，或在排隊管理與客訴處理上顯得不夠專業。
 
 ## 其他
-- 店內主要接受現金或行動二維碼支付，不接受信用卡。
-- 提供豐富的素食與植物肉替代選項，亦有預先包裝的烤肉捲冷藏外帶。
-- 晚間打烊時間較早（約 19:30 至 20:30），且開放式空間有時空調偏涼或偏悶。
+- 提供素食菜單，亦可請廚師協助客製素食餐點。
+- 菜單部分品項未附圖片，且整體重複使用炸豬皮等食材的頻率較高。
 
 ## 和其他餐廳比較
-有評論提及雖然味道不錯，但 Le Dalat 的口味更好且價格更便宜；亦有常居越南的顧客認為不如越南當地的道地河粉。
+- 有評論提及菜色風格類似 Khao Kaew Pla 餐廳。
+- 甜點（泰式奶茶吐司）被評論稱讚表現超越知名甜點店 After You。
 
 ## 簡短總結
-本店非常適合在周邊上班、健身運動後或追求清爽低負擔、喜愛新鮮有機蔬菜與快速便餐的顧客。對於追求濃郁傳統越南河粉高湯、想吃越南法國麵包，或偏好正式餐廳封閉用餐環境的人則較不推薦。
+Sava Modern Thai Flavour 適合重視用餐環境、注重衛生與舒適度，想在百貨內悠閒享用精緻泰式融合料理或下午茶的旅客及家庭聚餐。不適合追求強烈道地泰式街頭風味、極度在意性價比或趕時間的顧客。
 
 ---
 
 # English Summary
 
 ## Name
-LELE by le mai anh (4.6 stars, 414 reviews)
+Sava Modern Thai Flavour (4.2 stars, 181 reviews); Central Chidlom branch is also mentioned in the reviews.
 
 ## Recommendations / Strengths
-- Uses fresh, pesticide-free organic vegetables and herbs sourced directly from their own farm.
-- Highly praised dishes include Nem Nuong (grilled pork rolls), grandma's crispy fried spring rolls, and sugar cane shrimp.
-- Popular specialty options include grilled pork fried rice, refreshing lemongrass pandan tea, and traditional Vietnamese drip coffee.
-- Food is prepared and served very quickly, making it ideal for a nutritious and swift meal.
+- Features a stylish, modern Thai fusion concept with elegant blue-and-white decor, providing a quiet and comfortable retreat inside the mall.
+- Highly praised dishes include Tom Yum soup, green curry chicken, spicy glass noodle salad, fried chive dumplings, fish cakes, fresh crab meat dishes, and pork satay.
+- Desserts and beverages are standout highlights, especially the bael fruit pudding, blueberry cheesecake, Thai tea toast, and Mariage Frères teas.
 
 ## Not Recommended / Weaknesses
-- Several diners noted that the pho broth was overly bland, sweet, or too ginger-heavy, with beef slices occasionally being tough.
-- Some customers felt the flavors were localized to Thai tastes rather than authentically Vietnamese, missing hoisin or Sriracha sauces.
-- Occasional quality control and cleanliness complaints were mentioned, including hair in sauce, a metallic fragment in soup, and a forgotten burned order.
-- The menu lacks traditional Vietnamese baguettes (Banh Mi).
+- Certain dishes are reported to be overly salty, too sweet, or greasy; isolated complaints mentioned chewy wagyu beef with tendons and tough pork.
+- Kitchen and service speed can be inconsistent, with several guests experiencing long waits of 25 to 50 minutes, along with past incidents of pests and rushed table clearance.
+- Flavors are modern and slightly tourist-adapted, which may disappoint those seeking authentic, traditional street-style Thai tastes.
 
 ## Location and Parking
-- Located on the ground floor lobby of the RSU Tower on Sukhumvit Soi 31, near BTS Phrom Phong and opposite EmSphere.
-- Seating is arranged in an open-concept building hallway rather than an enclosed traditional dining room.
-- Parking is available in the office building, with reviews noting that restaurant validation provides free parking.
+- Currently located on the M Floor of The Emporium (moved from EmQuartier), directly accessible via BTS Phrom Phong Station; the spot is slightly tucked away near luxury brand boutiques.
+- Ample parking is available in the shopping complex with validation tickets for diners, alongside valet parking options.
+- Generally features minimal wait times for tables, offers private dining rooms and bar seating, and is wheelchair accessible.
 
 ## Price
-- The average cost per person ranges between 100 and 400 THB, with noodle bowls starting around 150 to 210 THB.
-- Most guests consider it reasonably priced given the prime location and certified organic produce, though a few feel it is slightly expensive compared to local street stalls.
+- Prices are on the higher side, with typical spending ranging from ฿500 to ฿1,200+ per person (occasionally exceeding ฿2,000).
+- Bills are subject to a 10% service charge and 7% VAT, leading some diners to feel that portions and overall value for money do not justify the cost.
 
 ## Service
-- Staff members are consistently described as polite, warm, attentive, and welcoming.
-- Kitchen turnaround is remarkably fast, requiring minimal wait time even during busy hours.
-- A QR code ordering system is available, though some guests encountered minor system errors.
+- Staff are widely described as warm, polite, and attentive, with positive mentions of a hospitable senior manager and helpful gestures like lending phone chargers.
+- Negative feedback highlights occasional slow service, inattentive staff during busy hours, and unorganized queue or complaint handling.
 
 ## Other
-- Payment is mainly via cash or QR prompt pay, with no credit cards accepted.
-- Good vegan and plant-based protein options are provided, along with grab-and-go packaged rolls in a display fridge.
-- The restaurant closes relatively early (around 7:30 PM to 8:30 PM), and the open lobby space can vary in temperature.
+- Offers a vegetarian selection, with chefs able to customize certain dishes upon request.
+- Some menu items lack photos, and a few reviews noted a frequent repetition of ingredients (such as pork cracklings) across various dishes.
 
 ## Comparison with Other Restaurants
-A reviewer noted that while the food is decent, Le Dalat offers better taste at a cheaper price; others familiar with dining in Vietnam felt the broth was less authentic than what is found locally in Vietnam.
+- One reviewer noted that the dish style is quite similar to Khao Kaew Pla.
+- The Thai tea toast was praised as being even better than the desserts at After You.
 
 ## Brief Summary
-This spot is ideal for nearby office workers, gym enthusiasts, and diners seeking a clean, healthy meal packed with fresh organic greens and quick service. It is less suited for those seeking a deeply rich traditional pho broth, authentic banh mi, or an enclosed, upscale restaurant ambiance.
+Sava Modern Thai Flavour is ideal for travelers and small groups seeking a clean, comfortable, and upscale environment to enjoy refined Thai fusion dishes or afternoon tea while shopping. It is less suitable for budget-conscious diners, those pressed for time, or food lovers strictly searching for authentic, pungent street food flavors.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.8-flash` at 2026-10-04T05:48:37.439Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.8-flash` at 2026-10-04T05:50:46.069Z.
