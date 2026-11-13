@@ -1,82 +1,82 @@
 # 中文總結
 
 ## 名稱
-炸彈蔥油餅（4.3顆星、54 篇評論）
+大屯遊客服務站（4.5 顆星、350 篇評論）
 
 ## 推薦/優點
-- 蔥油餅炸得薄脆香酥，多數顧客稱讚控油得當、吃起來不油不膩。
-- 推薦加半熟蛋，熟度剛好，與酥脆餅皮搭配非常合適。
-- 調味方面甜醬、辣椒香氣足，也有人推薦僅灑胡椒粉吃原味。
-- 老闆強調每日換油，攤位維持得相當乾淨。
+- 坐落於大屯自然公園內，四周群山環繞、空氣清新涼爽，是台北近郊極佳的避暑與野餐勝地。
+- 園區生態豐富，設有平緩好走的環湖木棧道，晴天時生態池清澈見底，適合各年齡層散步放鬆。
+- 服務站內設有大屯山生態、地質與藍染文化的展示解說，並有大片落地窗可遠眺壯闊山景。
+- 站外設有多組戶外桌椅供休憩野餐，站內亦提供乾淨洗手間與紀念章供遊客收集。
 
 ## 不推薦/缺點
-- 少數人反映口味偏鹹或覺得偏油膩。
-- 有顧客認為餅皮蔥香味不明顯、蛋與餅皮包覆感不足，或蛋熟度控制不佳。
-- 曾有排隊被插隊、點餐順序混亂的情形，亦有顧客反映衛生感受不佳。
-- 有長期回購的顧客提到品項曾有漲價。
+- 服務站內未設置飲水機，遊客需自行攜帶足夠的飲用水上山。
+- 站內沒有販售一般商品或熱食，僅設有投幣式飲料販賣機。
+- 從停車場步行至服務站及洗手間約需 10 至 15 分鐘，若有急需如廁者會稍感不便。
 
 ## 地點停車
-- 位於裕民街、靠近新埔菜市場出入口附近。
-- 支援提前預訂，停車與交通便利性則在評論中未明確提到。
+- 位於巴拉卡公路旁，鄰近設有收費低廉的小型車停車場。
+- 大眾運輸可搭乘 108 公車至「二子坪」站下車，沿公路步行約 10 至 15 分鐘即可抵達。
+- 地理位置優越，可輕鬆串連二子坪步道、菜公坑古道等多條健行路徑。
 
 ## 價位
-- 屬平價銅板美食，加蛋蔥油餅約 40 元，平均每人消費約 1 至 200 元內。
-- 雖然部分品項如蔥油餅與雙起司曾漲價，多數人仍覺得便宜超值。
+- 自然公園與遊客服務站皆免費參觀。
+- 停車場收費平價低廉，自動販賣機飲料為一般市售價格。
 
 ## 服務
-- 老闆態度親切客氣，對小朋友友善，動作迅速。
-- 負評主要針對現場排隊動線管理不佳，曾因記錯點餐順序而產生爭議。
+- 服務人員態度親切友善，服務台備有 5 款紀念章供遊客蓋印留念。
+- 現場志工導覽專業且富有耐心，受到家長讚賞會熱心為小朋友詳細解說自然生態。
 
 ## 其他
-- 從早上或早午餐時段即有販售，是附近住戶推薦的點心或正餐選擇。
-- 有顧客發揮創意，自行帶回家加入酪梨搭配食用。
+- 展區特別介紹北台灣過去的「馬藍（大菁）」藍染產業歷史與當地動植物標本。
+- 遊客提醒入園應愛惜公物、垃圾不落地並切勿餵食野生動物。
 
 ## 和其他餐廳比較
-- 有顧客表示美味程度完全不輸花蓮知名的炸彈蔥油餅。
+無
 
 ## 簡短總結
-適合喜歡外酥內軟、薄脆口感及熱愛爆漿半熟蛋的平價小吃愛好者。若對排隊秩序極為敏感、追求濃郁蔥香或排斥油炸食品的人可能需要再行斟酌。
+大屯遊客服務站環境清幽、步道平緩好走且視野遼闊，非常適合親子家庭、銀髮族以及喜愛親近大自然與避暑的旅人。不過由於離停車場有段步行距離且未提供飲水機，較不適合行動嚴重不便或未自備飲用水的遊客。
 
 ---
 
 # English Summary
 
 ## Name
-Fried Egg Scallion Pancake (4.3 stars, 54 reviews)
+Datun Visitor Center (4.5 stars, 350 reviews)
 
 ## Recommendations / Strengths
-- The scallion pancakes are fried thin and crispy, with many praising them for being non-greasy.
-- Adding a soft-boiled/runny egg is highly recommended, as it pairs excellently with the crunchy crust.
-- Customers enjoy the aromatic chili and sweet sauce, while some recommend having it simply with pepper powder.
-- The owner emphasizes changing the frying oil daily, keeping the stall clean.
+- Situated within Datun Nature Park, the area is surrounded by lush mountains and offers cool, fresh air, making it an ideal summer retreat and picnic spot.
+- Features rich ecological surroundings and easy wooden boardwalks around a clear ecological pond, making it accessible and relaxing for visitors of all ages.
+- The visitor center houses educational exhibits on local geology, ecology, and indigo-dyeing history, alongside large picture windows overlooking mountain views.
+- Facilities include clean restrooms, outdoor picnic tables, vending machines, and five commemorative stamps for collectors.
 
 ## Not Recommended / Weaknesses
-- A few customers found it slightly too salty or greasy.
-- Some felt the scallion flavor was faint, the egg was not well-integrated into the pancake, or the egg's doneness was inconsistent.
-- Occasional issues with line-cutting, order mix-ups, and poor hygiene were reported.
-- Returning customers noted that prices have increased over time.
+- There is no drinking water dispenser inside the visitor center, so visitors must bring their own water.
+- No food or general merchandise is sold on-site apart from coin-operated beverage vending machines.
+- It takes about 10 to 15 minutes to walk from the parking lot to the visitor center and restrooms, which can be inconvenient in urgent situations.
 
 ## Location and Parking
-- Located on Yumin Street, near the entrance of the Xinpu traditional market.
-- Pre-ordering is available; specific parking and public transport details are not clearly mentioned in the reviews.
+- Located along Balaka Highway, with a nearby budget-friendly paid parking lot for passenger vehicles.
+- Accessible via public transport by taking bus 108 to Erziping stop, followed by a 10- to 15-minute walk.
+- Serves as a convenient hub connected to trails such as Erziping Trail and Caigongkeng Trail.
 
 ## Price
-- Affordable street food at coin prices; an egg-added pancake was noted at NT$40, with average spending within NT$1–200.
-- Despite price hikes on items like standard and double-cheese pancakes, most consider it great value.
+- Entry to the nature park and visitor center is free of charge.
+- The nearby parking lot is inexpensive, and beverage vending machines are priced at standard rates.
 
 ## Service
-- The owner is generally friendly, good with children, and serves quickly.
-- Negative feedback mainly pointed out poor queue management and confusion regarding who ordered first.
+- Staff members are polite and helpful, offering five collectible souvenir stamps at the service desk.
+- Volunteer guides are praised for being patient, friendly, and engaging when explaining natural ecology to children.
 
 ## Other
-- Open starting from the morning/brunch hours, making it a popular neighborhood snack or meal option.
-- One creative customer recommended taking it home to pair with avocado slices.
+- Exhibits highlight local plant specimens and the historical significance of Chinese indigo cultivation and traditional blue-dyeing in the area.
+- Visitors are reminded to preserve public property, pack out their trash, and avoid feeding wild animals.
 
 ## Comparison with Other Restaurants
-- A reviewer mentioned that the taste is on par with the famous fried egg scallion pancakes in Hualien.
+None
 
 ## Brief Summary
-This stall is great for lovers of budget-friendly street snacks who enjoy extra-crispy fried pancakes with a runny egg yolk. It might not suit those who dislike fried foods, expect heavy scallion aromas, or are sensitive to crowd management issues.
+Datun Visitor Center is ideal for families, seniors, and nature enthusiasts seeking a cool, scenic, and gentle hiking or picnicking destination near Taipei. It may be less suitable for individuals with severe mobility issues or those who arrive without bringing their own drinking water.
 
 ---
-Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.8-flash` at 2026-10-22T21:58:59.960Z.
+Generated from `codex-analysis/latest-page-export.txt` with `gemini-3.8-flash` at 2026-11-13T23:32:42.629Z.
